@@ -5,7 +5,7 @@ This example will run on Python 2.7 and OpenCV 2.4.X.
 
 In this lesson, we'll be making our very own Mobile Document Scanner! 
 
-![alt tag](https://github.com/OverRatedTech/OpenCV_Projects/blob/master/OpenCV_Mobile_Document_Scanner%20%20/receipt-scanned.jpg)
+![alt tag](https://github.com/OverRatedTech/OpenCV_Projects/blob/master/OpenCV_Mobile_Scanner/receipt-scanned.jpg)
 
 Theres going to be 3 simple steps in order for us to complete the app
 
