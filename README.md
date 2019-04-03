@@ -1,7 +1,6 @@
 # OpenCV_Projects
 
-This repository contains any projects I've accomplished either with research, 
-projects, or online classes I will refernce. My main focus is to study fields crossing over Machine Learning (Convolutional Neural Network, Support Vector Machines, and k-means clustering), Computer Vision, and Data Science so I can work with Self Driving Cars.  
+This repository includes any projects that I have completed with research, projects, or online classes that I will refer to. My main focus is on studying fields that cross Machine Learning (Convolutionary Neural Network, Support Vector Machines, and Clustering of K-means), Computer Vision, and Data Science so I can work with Self Driving Cars. 
 
 ![alt tag](https://github.com/OverRatedTech/OpenCV_Projects/blob/master/OpenCV_CNN.png)
 
