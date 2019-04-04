@@ -9,6 +9,7 @@ def make_points(image, line):
     x2 = int((y2 - intercept)/slope)
     return [[x1, y1, x2, y2]]
  
+# 
 def average_slope_intercept(image, lines):
     left_fit    = []
     right_fit   = []
@@ -31,13 +32,25 @@ def average_slope_intercept(image, lines):
     averaged_lines = [left_line, right_line]
     return averaged_lines
  
+# Canny edge detection 
+# It's easier to find edges between pixels if 
+# we're able to convert the enire image into gray. 
 def canny(img):
+    # Turn the images Gray
+    # Processing a single channel instead of 
+    # three (R/G/B) color image, is a lot more faster.
     gray = cv2.cvtColor(img, cv2.COLOR_RGB2GRAY)
+    # Rude noise
+    
     kernel = 5
     blur = cv2.GaussianBlur(gray,(kernel, kernel),0)
+    # Gradient Intensity 
+    # 50 lowest thershold
+    # 150 highest thereshold
     canny = cv2.Canny(gray, 50, 150)
     return canny
  
+
 def display_lines(img,lines):
     line_image = np.zeros_like(img)
     if lines is not None:
@@ -46,6 +59,8 @@ def display_lines(img,lines):
                 cv2.line(line_image,(x1,y1),(x2,y2),(255,0,0),10)
     return line_image
  
+
+
 def region_of_interest(canny):
     height = canny.shape[0]
     width = canny.shape[1]
@@ -60,28 +75,24 @@ def region_of_interest(canny):
     masked_image = cv2.bitwise_and(canny, mask)
     return masked_image
  
- 
-# image = cv2.imread('test_image.jpg')
-# lane_image = np.copy(image)
-# lane_canny = canny(lane_image)
-# cropped_canny = region_of_interest(lane_canny)
-# lines = cv2.HoughLinesP(cropped_canny, 2, np.pi/180, 100, np.array([]), minLineLength=40,maxLineGap=5)
-# averaged_lines = average_slope_intercept(image, lines)
-# line_image = display_lines(lane_image, averaged_lines)
-# combo_image = cv2.addWeighted(lane_image, 0.8, line_image, 1, 0)
- 
-#
+
+# 
 cap = cv2.VideoCapture("test2.mp4")
 while(cap.isOpened()):
     _, frame = cap.read()
     canny_image = canny(frame)
     cropped_canny = region_of_interest(canny_image)
+    # It's important to design a houghLines transform 
     lines = cv2.HoughLinesP(cropped_canny, 2, np.pi/180, 100, np.array([]), minLineLength=40,maxLineGap=5)
+
     averaged_lines = average_slope_intercept(frame, lines)
     line_image = display_lines(frame, averaged_lines)
     combo_image = cv2.addWeighted(frame, 0.8, line_image, 1, 1)
     cv2.imshow("result", combo_image)
+    
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
+
 cap.release()
 cv2.destroyAllWindows()
+
