@@ -1,6 +1,8 @@
 import cv2
 import numpy as np
  
+
+ 
 def make_points(image, line):
     slope, intercept = line
     y1 = int(image.shape[0])# bottom of the image
@@ -40,11 +42,27 @@ def canny(img):
     # Processing a single channel instead of 
     # three (R/G/B) color image, is a lot more faster.
     gray = cv2.cvtColor(img, cv2.COLOR_RGB2GRAY)
-    # Rude noise
-    
+    # Smooth and reduce noise (Gaussian Filter)
+    # To understand the concept of a Gaussian filter
+    # recall that an image is stored as a collection 
+    # of discrete pixels. Each of the pixels for a 
+    # grayscale image is represented by a single number
+    # that discribes the brightness of the pixel. For the 
+    # sake of example, how do we smooth in the following 
+    # image? We modify the value of a pixel with the average
+    # value of the pixel intensities around it. Averaging out
+    # out the pixels in the image to reduce noise will be 
+    # done with the kernel (5x5). Each element within the
+    # kernel contain gaussian values. 
     kernel = 5
     blur = cv2.GaussianBlur(gray,(kernel, kernel),0)
     # Gradient Intensity 
+    # Identifying edges by seeing a sharp change in color
+    # between adjacent pixels in the image. The change in
+    # brightness over a series of pixels is the gradient. 
+    # A strong gradient indicates a steep change wheras a
+    # small gradient is a shallow change. We first establish
+    # that an image as it's composed 
     # 50 lowest thershold
     # 150 highest thereshold
     canny = cv2.Canny(gray, 50, 150)
