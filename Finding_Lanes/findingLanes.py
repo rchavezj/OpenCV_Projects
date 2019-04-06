@@ -66,6 +66,27 @@ def region_of_interest(canny):
     # detection).
     masked_image = cv2.bitwise_and(canny, mask)
     return masked_image
+
+# (1) It's important to design a houghLines transform to 
+# design the lines for our given traffic lane. 
+# instead of using the cartesian coordinates (y and m):
+# y = mx + b
+# (2) We will be using the polar coordinates (row [p] and 
+# theta): p = xcos(theta) + ysin(theta)
+# (3) Arguments: 
+# (3a) Image, number of pixels per bin, degree, 
+# radians (np.pi/180 == 1 radians) 
+# (3b) the minimum number of votes (intersection) in 
+# hough-space for a bin needs to be 100 for it to be 
+# accepted as a relevent line in describing our data 
+# (3c) placeholder array to pass in content 
+# (3d) length of a line in pixels we will accept into
+# the output (minLineLength) 
+# (3e) maximum distance in pixels between segmented 
+# lines (maxLineGap) to be connected into one line. 
+def houghLines(cropped_canny):
+    return cv2.HoughLinesP(cropped_canny, 2, np.pi/180, 100, 
+        np.array([]), minLineLength=40, maxLineGap=5)
  
 # 
 def display_lines(img,lines):
@@ -108,25 +129,13 @@ def average_slope_intercept(image, lines):
     averaged_lines = [left_line, right_line]
     return averaged_lines
 
-#  
+# Main program
 cap = cv2.VideoCapture("test2.mp4")
 while(cap.isOpened()):
     _, frame = cap.read()
     canny_image = canny(frame)
     cropped_canny = region_of_interest(canny_image)
-
-    # (1) It's important to design a houghLines transform to 
-    # design the lines for our given traffic lane. 
-    # instead of using the cartesian coordinates (y and m):
-    # y = mx + b
-    # (2) We will be using the polar coordinates (row [p] and 
-    # theta): p = xcos(theta) + ysin(theta)
-    # (3) Arguments: Image, number of pixels per bin, degree, 
-    # radians (np.pi/180 == 1 radians), the minimum number
-    # of votes needed to accept a candidate line within a bin. 
-    lines = cv2.HoughLinesP(cropped_canny, 2, np.pi/180, 100, 
-        np.array([]), minLineLength=40, maxLineGap=5)
-
+    lines = houghLines(cropped_canny)
     averaged_lines = average_slope_intercept(frame, lines)
     line_image = display_lines(frame, averaged_lines)
     combo_image = cv2.addWeighted(frame, 0.8, line_image, 1, 1)
