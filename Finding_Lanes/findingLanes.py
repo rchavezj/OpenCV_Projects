@@ -133,7 +133,7 @@ def display_lines(img,lines):
 def make_points(image, line):
     slope, intercept = line
     y1 = int(image.shape[0])# bottom of the image
-    y2 = int(y1*2.5/5)         # slightly lower than the middle
+    y2 = int(y1*2.5/5)      # slightly lower than the middle
     x1 = int((y1 - intercept)/slope)
     x2 = int((y2 - intercept)/slope)
     return [[x1, y1, x2, y2]]
@@ -164,12 +164,16 @@ def average_slope_intercept(image, lines):
             else:
                 # Positive slope. 
                 right_fit.append((slope, intercept))
+    # Return smooth slopes
     # Using numpy functions to find the 
     # average within the left and right slope. 
     left_fit_average  = np.average(left_fit, axis=0)
     right_fit_average = np.average(right_fit, axis=0)
+    # Place the new smooth slope on the new image.
     left_line  = make_points(image, left_fit_average)
     right_line = make_points(image, right_fit_average)
+    # Return an array of the two new 
+    # lines placed on the image/frame. 
     averaged_lines = [left_line, right_line]
     return averaged_lines
 
