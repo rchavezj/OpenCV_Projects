@@ -1,39 +1,6 @@
 import cv2
 import numpy as np
  
-
- 
-def make_points(image, line):
-    slope, intercept = line
-    y1 = int(image.shape[0])# bottom of the image
-    y2 = int(y1*3/5)         # slightly lower than the middle
-    x1 = int((y1 - intercept)/slope)
-    x2 = int((y2 - intercept)/slope)
-    return [[x1, y1, x2, y2]]
- 
-# 
-def average_slope_intercept(image, lines):
-    left_fit    = []
-    right_fit   = []
-    if lines is None:
-        return None
-    for line in lines:
-        for x1, y1, x2, y2 in line:
-            fit = np.polyfit((x1,x2), (y1,y2), 1)
-            slope = fit[0]
-            intercept = fit[1]
-            if slope < 0: # y is reversed in image
-                left_fit.append((slope, intercept))
-            else:
-                right_fit.append((slope, intercept))
-    # add more weight to longer lines
-    left_fit_average  = np.average(left_fit, axis=0)
-    right_fit_average = np.average(right_fit, axis=0)
-    left_line  = make_points(image, left_fit_average)
-    right_line = make_points(image, right_fit_average)
-    averaged_lines = [left_line, right_line]
-    return averaged_lines
- 
 # Canny edge detection 
 # It's easier to find edges between pixels if 
 # we're able to convert the enire image into gray. 
@@ -67,8 +34,40 @@ def canny(img):
     # 150 highest thereshold
     canny = cv2.Canny(gray, 50, 150)
     return canny
- 
 
+# We need to mask the image to 
+# a region where we need to detect
+def region_of_interest(canny):
+    # y-axis 
+    # Bottom left corner of an image
+    height = canny.shape[0]
+    # x-axis
+    # Bottom left corner of an image
+    width = canny.shape[1]
+    # Creates an array, size equal to
+    # the image, of zero to make every
+    # thing black outside the region
+    # of interest. 
+    mask = np.zeros_like(canny)
+    # Region of 
+    # interest boundaries
+    triangle = np.array([[
+    (200, height),
+    (550, 250),
+    (1100, height),]], np.int32)
+    # Fill the mask with the polygon 
+    # (triangle) shape
+    cv2.fillPoly(mask, triangle, 255)
+    # Do a bitwise "AND" logic comparison 
+    # with white and black pixels beteen the 
+    # masked image (black background with white
+    # triangle covering the lane) against the 
+    # canny image (original image with edge 
+    # detection).
+    masked_image = cv2.bitwise_and(canny, mask)
+    return masked_image
+ 
+# 
 def display_lines(img,lines):
     line_image = np.zeros_like(img)
     if lines is not None:
@@ -76,32 +75,57 @@ def display_lines(img,lines):
             for x1, y1, x2, y2 in line:
                 cv2.line(line_image,(x1,y1),(x2,y2),(255,0,0),10)
     return line_image
- 
-
-
-def region_of_interest(canny):
-    height = canny.shape[0]
-    width = canny.shape[1]
-    mask = np.zeros_like(canny)
- 
-    triangle = np.array([[
-    (200, height),
-    (550, 250),
-    (1100, height),]], np.int32)
- 
-    cv2.fillPoly(mask, triangle, 255)
-    masked_image = cv2.bitwise_and(canny, mask)
-    return masked_image
- 
 
 # 
+def make_points(image, line):
+    slope, intercept = line
+    y1 = int(image.shape[0])# bottom of the image
+    y2 = int(y1*3/5)         # slightly lower than the middle
+    x1 = int((y1 - intercept)/slope)
+    x2 = int((y2 - intercept)/slope)
+    return [[x1, y1, x2, y2]]
+ 
+# 
+def average_slope_intercept(image, lines):
+    left_fit    = []
+    right_fit   = []
+    if lines is None:
+        return None
+    for line in lines:
+        for x1, y1, x2, y2 in line:
+            fit = np.polyfit((x1,x2), (y1,y2), 1)
+            slope = fit[0]
+            intercept = fit[1]
+            if slope < 0: # y is reversed in image
+                left_fit.append((slope, intercept))
+            else:
+                right_fit.append((slope, intercept))
+    # add more weight to longer lines
+    left_fit_average  = np.average(left_fit, axis=0)
+    right_fit_average = np.average(right_fit, axis=0)
+    left_line  = make_points(image, left_fit_average)
+    right_line = make_points(image, right_fit_average)
+    averaged_lines = [left_line, right_line]
+    return averaged_lines
+
+#  
 cap = cv2.VideoCapture("test2.mp4")
 while(cap.isOpened()):
     _, frame = cap.read()
     canny_image = canny(frame)
     cropped_canny = region_of_interest(canny_image)
-    # It's important to design a houghLines transform 
-    lines = cv2.HoughLinesP(cropped_canny, 2, np.pi/180, 100, np.array([]), minLineLength=40,maxLineGap=5)
+
+    # (1) It's important to design a houghLines transform to 
+    # design the lines for our given traffic lane. 
+    # instead of using the cartesian coordinates (y and m):
+    # y = mx + b
+    # (2) We will be using the polar coordinates (row [p] and 
+    # theta): p = xcos(theta) + ysin(theta)
+    # (3) Arguments: Image, number of pixels per bin, degree, 
+    # radians (np.pi/180 == 1 radians), the minimum number
+    # of votes needed to accept a candidate line within a bin. 
+    lines = cv2.HoughLinesP(cropped_canny, 2, np.pi/180, 100, 
+        np.array([]), minLineLength=40, maxLineGap=5)
 
     averaged_lines = average_slope_intercept(frame, lines)
     line_image = display_lines(frame, averaged_lines)
