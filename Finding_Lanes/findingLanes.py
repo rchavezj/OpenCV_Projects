@@ -102,7 +102,9 @@ def houghLines(cropped_canny):
 # Will give a value of 1 that multiple each element
 # within the second image provided in the input function.
 # It will increase the pixel intensity compared to the first
-# image. The lines will be more revealing than the frame 
+# image. The lines will be more revealing than the frame. 
+# (2d) Gamma argument where we can choose some values 
+# that will add to our some. 
 def addWeighted(frame, line_image):
     return cv2.addWeighted(frame, 0.8, line_image, 1, 1)
  
