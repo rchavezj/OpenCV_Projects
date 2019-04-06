@@ -138,7 +138,9 @@ def make_points(image, line):
     x2 = int((y2 - intercept)/slope)
     return [[x1, y1, x2, y2]]
  
-# 
+# Our current lines are noisy from  
+# the hough transform so we need to
+# average out the lines to smooth it out.
 def average_slope_intercept(image, lines):
     # Keeping an array to
     # track all positions.
