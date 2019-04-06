@@ -87,14 +87,38 @@ def region_of_interest(canny):
 def houghLines(cropped_canny):
     return cv2.HoughLinesP(cropped_canny, 2, np.pi/180, 100, 
         np.array([]), minLineLength=40, maxLineGap=5)
+
+# (1) Taking the sum of our color image 
+# with our line image (black-blue lines)
+# (2) Arguments:
+# (2a) Lane image
+# (2b) Taking the weighted sum between the arrays 
+# between the two images provided in this function. 
+# Will give a value of 0.8 that multiple each element
+# within the first image provided in the input function.
+# It will decrease the pixel intensity. 
+# (2c) Taking the weighted sum between the arrays 
+# between the two images provided in this function. 
+# Will give a value of 1 that multiple each element
+# within the second image provided in the input function.
+# It will increase the pixel intensity compared to the first
+# image. The lines will be more revealing than the frame.  
+def addWeighted(frame, line_image):
+    return cv2.addWeighted(frame, 0.8, line_image, 1, 1)
  
-# 
+# This will return a black image
+# except within the region of, 
+# interest will have blue lines
+# displayed within the traffic lane.
 def display_lines(img,lines):
     # Start with a black image 
     # with the same dimensions as the
     # original picture of the road
     line_image = np.zeros_like(img)
     if lines is not None:
+        # iterate existing 
+        # line points given
+        # from hough lines
         for line in lines:
             for x1, y1, x2, y2 in line:
                 # (255,0,0): Blue color
@@ -143,7 +167,7 @@ while(cap.isOpened()):
     lines = houghLines(cropped_canny)
     averaged_lines = average_slope_intercept(frame, lines)
     line_image = display_lines(frame, averaged_lines)
-    combo_image = cv2.addWeighted(frame, 0.8, line_image, 1, 1)
+    combo_image = addWeighted(frame, line_image)
     cv2.imshow("result", combo_image)
     
     if cv2.waitKey(1) & 0xFF == ord('q'):
