@@ -189,7 +189,7 @@ while(cap.isOpened()):
     averaged_lines = average_slope_intercept(frame, lines)
     line_image = display_lines(frame, averaged_lines)
     combo_image = addWeighted(frame, line_image)
-    cv2.imshow("result", combo_image)
+    cv2.imshow("result", canny_image)
     
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
