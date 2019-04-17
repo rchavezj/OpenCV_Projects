@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/rchavezj/OpenCV_Projects/blob/master/Finding_Lanes/images/findingLanes.png)
+<img src="https://media.giphy.com/media/vwFITsRSS3cbgFNuaY/giphy.gif" width="900" height="500" />
 
 ```python
 # Canny edge detection 
