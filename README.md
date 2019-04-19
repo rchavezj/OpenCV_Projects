@@ -6,6 +6,16 @@ This repository includes any projects that I have completed with research, proje
 
 The projects I plan on learning will be on the following topics. 
 
+### PyTorch Report
+|                                  |   Optimizer   | Loss     |  Accuracy  | Learn Rate | Epoch | Batch Size |   GPU Usage  |
+| :---:                            | :----:   |  :----:  |    :---:   |  :----:    | :---: |    :---:   |    :----:    | 
+| Neural Net                       |  SGD  |  1.75%    |    45%    |    0.01    | 300   |     30     |    29%       | 
+| Multi-Bidirectional LSTM         |  SGD  |  7.89%   |    64%     |    0.003   | 300   |     64     |    55%       |
+| Stream LSTM                      |  SGD  |  7.98%   |    64%     |    0.03    | 300   |     64     |     0%       |
+| Neual Net + Stream LSTM Concat   |  SGD  |  8.91%    |    95%    |  0.00045   | 300   |     64     |   24.13%     |
+
+
+
 # Sections: </br>
 ### Basics of Computer Vision and Opencv </br>
 ------------------------------------------------------------------------------------------------
