@@ -29,6 +29,7 @@ The projects I plan on learning will be on the following topics.
 | Drawings of Shapes    |        |          |
 
 ### Image Manipulation & Processing
+|  |  |   |
 | :---:                     | :----: |  :----:  |
 | Transformation            |        |          |
 | Img Translation           |        |          |
