@@ -18,13 +18,17 @@ The projects I plan on learning will be on the following topics.
 | Object Tracking & Motion Analysis                       | Lectures  |    w   |
 | Computational Photography & Make a License Plate Reader | Lectures  |    w   |
 
-### Basics of Computer Vision and Opencv
-|                                  |   Optimizer   | Loss     |  Accuracy  | Learn Rate | Epoch |
-| :---:                            | :----: |  :----:  |  :---:   |  :----:    | :---: |
-| Neural Net                       |  SGD   |  1.75%   |  45%     |  0.01      | 300   |
-| Multi-Bidirectional LSTM         |  SGD   |  7.89%   |  64%     |  0.003     | 300   |
-| Stream LSTM                      |  SGD   |  7.98%   |  64%     |  0.03      | 300   |
-| Neual Net + Stream LSTM Concat   |  SGD   |  8.91%   |  95%     |  0.00045   | 300   |
+|                                                         |   Optimizer   | Loss     |
+| :---:                                                   | :----: |  :----:  |
+| Basics of Computer Vision and Opencv                    |  SGD   |  1.75%   |
+| Image Manipulation & Processing                         |  SGD   |  7.89%   |
+| Image Segmentation & Contours                           |  SGD   |  7.98%   |
+| Object Detection in OpenCV                              |  SGD   |  8.91%   |
+| Build a Face, people and Car/Vehicle Detectors          |  SGD   |  8.91%   |
+| Augmented Reality (AR) - Facial Landmark Identification |  SGD   |  8.91%   |
+| Simple Machine Learning using OpenCV                    | SGD    |    w   |
+| Object Tracking & Motion Analysis                       | Lectures  |    w   |
+| Computational Photography & Make a License Plate Reader | Lectures  |    w   |
 
 # Mini projects: 
 ### Making a Live drawing sketch of yourself </br>
