@@ -50,6 +50,7 @@ The projects I plan on learning will be on the following topics.
 
 ### Object Detection in OpenCV
 |  |  |   |
+| :---:                     | :----: |  :----:  |
 | Segmentation  & Contours  |        |          |
 | Sorting Contours          |        |          |
 | Convex Hull               |        |          |
