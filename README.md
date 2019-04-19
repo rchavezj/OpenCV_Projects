@@ -42,20 +42,66 @@ The projects I plan on learning will be on the following topics.
 ### Image Segmentation & Contours
 |  |  |   |
 | :---:                     | :----: |  :----:  |
-| Segmentation  & Contours  |        |          |
-| Sorting Contours          |        |          |
-| Convex Hull               |        |          |
-| Scaling                   |        |          |
-| Image Pyramids (Resize)   |        |          |
+|   |        |          |
+|           |        |          |
+|                |        |          |
+|                    |        |          |
+|    |        |          |
 
 ### Object Detection in OpenCV
 |  |  |   |
 | :---:                     | :----: |  :----:  |
-| Segmentation  & Contours  |        |          |
-| Sorting Contours          |        |          |
-| Convex Hull               |        |          |
-| Scaling                   |        |          |
-| Image Pyramids (Resize)   |        |          |
+|   |        |          |
+|           |        |          |
+|                |        |          |
+|                    |        |          |
+|  Object Detection  |        |          |
+
+### Build a Face, people and Car/Vehicle Detectors
+|                       |        |          |
+| :---:                 | :----: |  :----:  |
+|                       |        |          |
+|                       |        |          |
+|                       |        |          |
+|                       |        |          |
+| Car Video Detection   |        |          |
+
+### Augmented Reality (AR) - Facial Landmark Identification
+|                               |        |          |
+| :---:                         | :----: |  :----:  |
+|                               |        |          |
+|                               |        |          |
+|                               |        |          |
+|  Face Swapper (Snapchat)      |        |          |
+|  Face Reader - Yawn Detector  |        |          |
+
+### Simple Machine Learning using OpenCV
+|                                  |        |          |
+| :---:                            | :----: |  :----:  |
+|                                  |        |          |
+|                                  |        |          |
+|                                  |        |          |
+|  Handwritten Digit Recognition   |        |          |
+|  Facial Recognition              |        |          |
+
+### Object Tracking & Motion Analysis
+|  |  |   |
+| :---:                     | :----: |  :----:  |
+|   |        |          |
+|           |        |          |
+|                |        |          |
+|                    |        |          |
+|  Ball Tracking  |        |          |
+
+### Computational Photography
+|  |  |   |
+| :---:                     | :----: |  :----:  |
+|   |        |          |
+|           |        |          |
+|                |        |          |
+|                    |        |          |
+|  Photo Restoration  |        |          |
+
 
 ------------------------------------------------------------------------------------------------
 ### Shape Matching </br>
