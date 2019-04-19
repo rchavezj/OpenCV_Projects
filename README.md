@@ -76,7 +76,6 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 ### Simple Machine Learning using OpenCV
 |                                  |        |          |
 | :---:                            | :----: |  :----:  |
-|  Intro                           |        |          |
 |  Handwritten Digit Recognition   |        |          |
 |  Facial Recognition              |        |          |
 
