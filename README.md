@@ -20,9 +20,7 @@ The projects I plan on learning will be on the following topics.
 
 ### Basics of Computer Vision and Opencv
 |                                  |   Optimizer   | Loss     |  Accuracy  | Learn Rate | Epoch | Batch Size |   GPU Usage  |   CPU Usage
-
 | :---:                            | :----: |  :----:  |  :---:   |  :----:    | :---: |    :---:   |    :----:    |    :----:    | 
-
 | Neural Net                       |  SGD  |  1.75%   |  45%    |  0.01    | 300  |   30    |    29%       |    15.31%    |   
 | Multi-Bidirectional LSTM         |  SGD  |  7.89%   |  64%    |  0.003   | 300  |   64    |    55%       |    12.65%    |   
 | Stream LSTM                      |  SGD  |  7.98%   |  64%    |  0.03    | 300  |   64    |     0%       |     97%      |    
