@@ -21,6 +21,7 @@ The projects I plan on learning will be on the following topics.
 
 # Sections: 
 ### Basics of Computer Vision and Opencv
+|  |  |   |
 | :---:                 | :----: |  :----:  |
 | OpenCV Intro          |        |          |
 | Grayscaling           |        |          |
@@ -39,6 +40,7 @@ The projects I plan on learning will be on the following topics.
 | Region of intrest (Crop)  |        |          |
 
 ### Image Segmentation & Contours
+|  |  |   |
 | :---:                     | :----: |  :----:  |
 | Segmentation  & Contours  |        |          |
 | Sorting Contours          |        |          |
