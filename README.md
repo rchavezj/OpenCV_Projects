@@ -56,13 +56,11 @@ Segmenting Images and Obtaining Interesting Points. Apply different algorithms t
 |  Object Detection  |        |          |
 
 ### Build a Face, people and Car/Vehicle Detectors
-|                       |        |          |
-| :---:                 | :----: |  :----:  |
-|                       |        |          |
-|                       |        |          |
-|                       |        |          |
-|                       |        |          |
-| Car Video Detection   |        |          |
+|                                     |        |          |
+| :---:                               | :----: |  :----:  |
+| HAAR Cascade Classifiers            |        |          |
+| Face and Eye Detection              |        |          |
+| Car & Pedestrian  Video Detection   |        |          |
 
 ### Augmented Reality (AR) - Facial Landmark Identification
 
@@ -70,29 +68,26 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 
 |                               |        |          |
 | :---:                         | :----: |  :----:  |
-|                               |        |          |
-|                               |        |          |
-|                               |        |          |
+|  Face Analysis and Filtering  |        |          |
+|  Merging Faces (Face Swaps)   |        |          |
 |  Face Swapper (Snapchat)      |        |          |
 |  Face Reader - Yawn Detector  |        |          |
 
 ### Simple Machine Learning using OpenCV
 |                                  |        |          |
 | :---:                            | :----: |  :----:  |
-|                                  |        |          |
-|                                  |        |          |
-|                                  |        |          |
+|  Intro                           |        |          |
 |  Handwritten Digit Recognition   |        |          |
 |  Facial Recognition              |        |          |
 
 ### Object Tracking & Motion Analysis
-|                 |        |          |
-| :---:           | :----: |  :----:  |
-|                 |        |          |
-|                 |        |          |
-|                 |        |          |
-|                 |        |          |
-|  Ball Tracking  |        |          |
+|                                     |        |          |
+| :---:                               | :----: |  :----:  |
+|  Background/Foreground Subtraction  |        |          |
+|  Meanshift (Object Tracking)        |        |          |
+|  CAMshift (Object Tracking)         |        |          |
+|  Optical Flow                       |        |          |
+|  Ball Tracking                      |        |          |
 
 ### Computational Photography
 Computational Photography. Create panoramas, remove unwanted objects from photos, enhance low light photographs, and work with High Dynamic Range (HDR) images. Calibration and Stereo Images. Learn how to calibrate cameras, remove distortion from images, change the 3D perspective of photographs, and work with stereo images to represent depth information.
@@ -100,9 +95,6 @@ Computational Photography. Create panoramas, remove unwanted objects from photos
 
 |                             |        |          |
 | :---:                       | :----: |  :----:  |
-|                             |        |          |
-|                             |        |          |
-|                             |        |          |
 |  Photo Restoration          |        |          |
 |  Lisence Plate Recognition  |        |          |
 
