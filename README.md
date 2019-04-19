@@ -7,25 +7,25 @@ This repository includes any projects that I have completed with research, proje
 The projects I plan on learning will be on the following topics. 
 
 # Sections: </br>
-## Basics of Computer Vision and Opencv </br>
-
-## Image Manipulation & Processing 
-
-## Image Segmentation & Contours </br>
+Basics of Computer Vision and Opencv </br>
 ------------------------------------------------------------------------------------------------
-## Object Detection in OpenCV </br>
+Image Manipulation & Processing 
 ------------------------------------------------------------------------------------------------
-## Object Detection - Build a Face, people and Car/Vehicle Detectors </br>
+Image Segmentation & Contours </br>
 ------------------------------------------------------------------------------------------------
-## Augmented Reality (AR) - Facial Landmark Identification </br>
+Object Detection in OpenCV </br>
 ------------------------------------------------------------------------------------------------
-## Simple Machine Learning using OpenCV </br>
+Object Detection - Build a Face, people and Car/Vehicle Detectors </br>
 ------------------------------------------------------------------------------------------------
-## Object Tracking & Motion Analysis </br>
+Augmented Reality (AR) - Facial Landmark Identification </br>
 ------------------------------------------------------------------------------------------------
-## Computational Photography & Make a License Plate Reader </br>
+Simple Machine Learning using OpenCV </br>
 ------------------------------------------------------------------------------------------------
-## Startup Ideas </br>
+Object Tracking & Motion Analysis </br>
+------------------------------------------------------------------------------------------------
+Computational Photography & Make a License Plate Reader </br>
+------------------------------------------------------------------------------------------------
+Startup Ideas </br>
 ------------------------------------------------------------------------------------------------
 </br>
 
