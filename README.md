@@ -7,16 +7,16 @@ This repository includes any projects that I have completed with research, proje
 The projects I plan on learning will be on the following topics. 
 
 ### Sections        
-| :---:                                                   | :----:    |  :----: |    :---:  |  :----:    | :---: |    :---:   |
-| Basics of Computer Vision and Opencv                    | Lectures  | 
+| :---:                                                   | :----:    |  :----: | 
+| Basics of Computer Vision and Opencv                    | Lectures  | :----: | 
 | Image Manipulation & Processing                         | Lectures  | Making a Live drawing sketch of yourself |
-| Image Segmentation & Contours                           | Lectures  |       |      |    |    |        |
-| Object Detection in OpenCV                              | Lectures  |       |      |    |    |        |   
-| Build a Face, people and Car/Vehicle Detectors          | Lectures  |       |      |    |    |        |
-| Augmented Reality (AR) - Facial Landmark Identification | Lectures  |       |      |    |    |        |
-| Simple Machine Learning using OpenCV                    | Lectures  |       |      |    |    |        |
-| Object Tracking & Motion Analysis                       | Lectures  |       |      |    |    |        |
-| Computational Photography & Make a License Plate Reader | Lectures  |       |      |    |    |        |
+| Image Segmentation & Contours                           | Lectures  |    w   |
+| Object Detection in OpenCV                              | Lectures  |    w   |
+| Build a Face, people and Car/Vehicle Detectors          | Lectures  |    w   |
+| Augmented Reality (AR) - Facial Landmark Identification | Lectures  |    w   |
+| Simple Machine Learning using OpenCV                    | Lectures  |    w   |
+| Object Tracking & Motion Analysis                       | Lectures  |    w   |
+| Computational Photography & Make a License Plate Reader | Lectures  |    w   |
 
 ------------------------------------------------------------------------------------------------
 ### Augmented Reality (AR) - Facial Landmark Identification </br>
