@@ -19,7 +19,7 @@ The projects I plan on learning will be on the following topics.
 | Computational Photography & Make a License Plate Reader | Lectures  |    w   |
 
 ### Basics of Computer Vision and Opencv
-|                                  |   Optimizer   | Loss     |  Accuracy  | Learn Rate | Epoch | Batch Size |   GPU Usage  |   CPU Usage| 
+|                                  |   Optimizer   | Loss     |  Accuracy  | Learn Rate | Epoch | Batch Size |   GPU Usage  |   CPU Usage
 
 | :---:                            | :----: |  :----:  |  :---:   |  :----:    | :---: |    :---:   |    :----:    |    :----:    | 
 
