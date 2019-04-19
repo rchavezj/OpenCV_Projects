@@ -48,7 +48,13 @@ The projects I plan on learning will be on the following topics.
 | Scaling                   |        |          |
 | Image Pyramids (Resize)   |        |          |
 
-
+### Object Detection in OpenCV
+|  |  |   |
+| Segmentation  & Contours  |        |          |
+| Sorting Contours          |        |          |
+| Convex Hull               |        |          |
+| Scaling                   |        |          |
+| Image Pyramids (Resize)   |        |          |
 
 ------------------------------------------------------------------------------------------------
 ### Shape Matching </br>
