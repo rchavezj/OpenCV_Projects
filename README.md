@@ -21,13 +21,30 @@ The projects I plan on learning will be on the following topics.
 
 # Sections: 
 ### Basics of Computer Vision and Opencv
-|                                               |        |          |
-| :---:                                         | :----: |  :----:  |
-| OpenCV Introduction      |        |          |
-| Grayscaling      |        |          |
-| Color Spaces      |        |          |
-| Histogram      |        |          |
-| Project: Making a Live drawing sketch of yourself     |        |          |
+| :---:                 | :----: |  :----:  |
+| OpenCV Intro          |        |          |
+| Grayscaling           |        |          |
+| Color Spaces          |        |          |
+| Histogram             |        |          |
+| Drawings of Shapes    |        |          |
+
+### Image Manipulation & Processing
+| :---:                     | :----: |  :----:  |
+| Transformation            |        |          |
+| Img Translation           |        |          |
+| Rotations                 |        |          |
+| Scaling                   |        |          |
+| Image Pyramids (Resize)   |        |          |
+| Region of intrest (Crop)  |        |          |
+
+### Image Segmentation & Contours
+| :---:                     | :----: |  :----:  |
+| Segmentation  & Contours  |        |          |
+| Sorting Contours          |        |          |
+| Convex Hull               |        |          |
+| Scaling                   |        |          |
+| Image Pyramids (Resize)   |        |          |
+
 
 
 ------------------------------------------------------------------------------------------------
