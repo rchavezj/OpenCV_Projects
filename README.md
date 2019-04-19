@@ -14,7 +14,9 @@ Object Detection in OpenCV
 Object Detection - Build a Face, people and Car/Vehicle Detectors 
 Augmented Reality (AR) - Facial Landmark Identification
 Simple Machine Learning using OpenCV
-Object Tracking 
+Object Tracking & Motion Analysis
+Computational Photography & Make a License Plate Reader
+Startup Ideas
 
 
 Mini projects: 
