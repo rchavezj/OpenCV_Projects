@@ -7,52 +7,52 @@ This repository includes any projects that I have completed with research, proje
 The projects I plan on learning will be on the following topics. 
 
 # Sections: </br>
-Basics of Computer Vision and Opencv </br>
+### Basics of Computer Vision and Opencv </br>
 ------------------------------------------------------------------------------------------------
-Image Manipulation & Processing 
+### Image Manipulation & Processing 
 ------------------------------------------------------------------------------------------------
-Image Segmentation & Contours </br>
+### Image Segmentation & Contours </br>
 ------------------------------------------------------------------------------------------------
-Object Detection in OpenCV </br>
+### Object Detection in OpenCV </br>
 ------------------------------------------------------------------------------------------------
-Object Detection - Build a Face, people and Car/Vehicle Detectors </br>
+### Object Detection - Build a Face, people and Car/Vehicle Detectors </br>
 ------------------------------------------------------------------------------------------------
-Augmented Reality (AR) - Facial Landmark Identification </br>
+### Augmented Reality (AR) - Facial Landmark Identification </br>
 ------------------------------------------------------------------------------------------------
-Simple Machine Learning using OpenCV </br>
+### Simple Machine Learning using OpenCV </br>
 ------------------------------------------------------------------------------------------------
-Object Tracking & Motion Analysis </br>
+### Object Tracking & Motion Analysis </br>
 ------------------------------------------------------------------------------------------------
-Computational Photography & Make a License Plate Reader </br>
+### Computational Photography & Make a License Plate Reader </br>
 ------------------------------------------------------------------------------------------------
-Startup Ideas </br>
+### Startup Ideas </br>
 ------------------------------------------------------------------------------------------------
 </br>
 
 # Mini projects: 
-Making a Live drawing sketch of yourself </br>
+### Making a Live drawing sketch of yourself </br>
 ------------------------------------------------------------------------------------------------
-Shape Matching </br>
+### Shape Matching </br>
 ------------------------------------------------------------------------------------------------
-Counting Circles and Ellipses </br>
+### Counting Circles and Ellipses </br>
 ------------------------------------------------------------------------------------------------
-Finding Waldo </br>
+### Finding Waldo </br>
 ------------------------------------------------------------------------------------------------
-Object Identification </br>
+### Object Identification </br>
 ------------------------------------------------------------------------------------------------
-Face, Pedestrian & Car Detection </br>
+### Face, Pedestrian & Car Detection </br>
 ------------------------------------------------------------------------------------------------
-Live Face Swaps - Become Donald Trump or Kim Kardashian (Snapchat) </br>
+### Live Face Swaps - Become Donald Trump or Kim Kardashian (Snapchat) </br>
 ------------------------------------------------------------------------------------------------
-Face Reader - Detect and count yawns </br>
+### Face Reader - Detect and count yawns </br>
 ------------------------------------------------------------------------------------------------
-Handwritten Digit Recognition </br>
+### Handwritten Digit Recognition </br>
 ------------------------------------------------------------------------------------------------
-Facial Recognition </br>
+### Facial Recognition </br>
 ------------------------------------------------------------------------------------------------
-Ball Tracking </br>
+### Ball Tracking </br>
 ------------------------------------------------------------------------------------------------
-Photo Restoration </br>
+### Photo Restoration </br>
 ------------------------------------------------------------------------------------------------
 </br>
 
