@@ -7,31 +7,29 @@ This repository includes any projects that I have completed with research, proje
 The projects I plan on learning will be on the following topics. 
 
 ### Sections        
-| :---:                                                   | :----:    |  :----: | 
-| Basics of Computer Vision and Opencv                    | Lectures  | :----: | 
-| Image Manipulation & Processing                         | Lectures  | Making a Live drawing sketch of yourself |
-| Image Segmentation & Contours                           | Lectures  |    w   |
-| Object Detection in OpenCV                              | Lectures  |    w   |
-| Build a Face, people and Car/Vehicle Detectors          | Lectures  |    w   |
-| Augmented Reality (AR) - Facial Landmark Identification | Lectures  |    w   |
-| Simple Machine Learning using OpenCV                    | Lectures  |    w   |
-| Object Tracking & Motion Analysis                       | Lectures  |    w   |
-| Computational Photography & Make a License Plate Reader | Lectures  |    w   |
-
-|                                                         |   Optimizer   | Loss     |
+|                                                         |      |      |
 | :---:                                                   | :----: |  :----:  |
-| Basics of Computer Vision and Opencv                    |  SGD   |  1.75%   |
-| Image Manipulation & Processing                         |  SGD   |  7.89%   |
-| Image Segmentation & Contours                           |  SGD   |  7.98%   |
-| Object Detection in OpenCV                              |  SGD   |  8.91%   |
-| Build a Face, people and Car/Vehicle Detectors          |  SGD   |  8.91%   |
-| Augmented Reality (AR) - Facial Landmark Identification |  SGD   |  8.91%   |
-| Simple Machine Learning using OpenCV                    | SGD    |    w   |
-| Object Tracking & Motion Analysis                       | Lectures  |    w   |
-| Computational Photography & Make a License Plate Reader | Lectures  |    w   |
+| Basics of Computer Vision and Opencv                    |     |   |
+| Image Manipulation & Processing                         |     |   |
+| Image Segmentation & Contours                           |     |   |
+| Object Detection in OpenCV                              |     |   |
+| Build a Face, people and Car/Vehicle Detectors          |     |   |
+| Augmented Reality (AR) - Facial Landmark Identification |     |   |
+| Simple Machine Learning using OpenCV                    |     |   |
+| Object Tracking & Motion Analysis                       |   |    |
+| Computational Photography & Make a License Plate Reader |   |    |
 
-# Mini projects: 
-### Making a Live drawing sketch of yourself </br>
+# Sections: 
+### Basics of Computer Vision and Opencv
+|                                               |        |          |
+| :---:                                         | :----: |  :----:  |
+| OpenCV Introduction      |        |          |
+| Grayscaling      |        |          |
+| Color Spaces      |        |          |
+| Histogram      |        |          |
+| Project: Making a Live drawing sketch of yourself     |        |          |
+
+
 ------------------------------------------------------------------------------------------------
 ### Shape Matching </br>
 ------------------------------------------------------------------------------------------------
