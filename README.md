@@ -10,6 +10,8 @@ The projects I plan on learning will be on the following topics.
 # Sections: 
 ### Basics of Computer Vision and Opencv
 Image Processing. Learn some of the basics of image processing such as blurring an image, understanding image morphology, geometric transforms, and image histograms.
+</br>
+
 |                       |        |          |
 | :---:                 | :----: |  :----:  |
 | OpenCV Intro          |        |          |
@@ -31,6 +33,8 @@ Image Processing. Learn some of the basics of image processing such as blurring 
 ### Image Segmentation & Contours
 
 Segmenting Images and Obtaining Interesting Points. Apply different algorithms to cluster data, segment images, as well as find and match interesting points in an image.
+
+</br>
 
 |                             |        |          |
 | :---:                       | :----: |  :----:  |
@@ -93,6 +97,7 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 ### Computational Photography
 Computational Photography. Create panoramas, remove unwanted objects from photos, enhance low light photographs, and work with High Dynamic Range (HDR) images. Calibration and Stereo Images. Learn how to calibrate cameras, remove distortion from images, change the 3D perspective of photographs, and work with stereo images to represent depth information.
 </br>
+
 |                             |        |          |
 | :---:                       | :----: |  :----:  |
 |                             |        |          |
