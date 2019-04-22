@@ -4,7 +4,8 @@ This repository includes any projects that I have completed with research, proje
 
 ![alt tag](https://github.com/rchavezj/OpenCV_Projects/blob/master/OpenCV_CNN.png)
 
-<img src="https://media.giphy.com/media/vwFITsRSS3cbgFNuaY/giphy.gif" width="900" height="500" />
+<img src="https://media.giphy.com/media/vwFITsRSS3cbgFNuaY/giphy.gif" width="90" height="50" />
+<img src="https://media.giphy.com/media/4EFsI6W5eOCtC2bmQw/giphy.gif" width="90" height="50" />
 
 The projects I plan on learning will be on the following topics. 
 
