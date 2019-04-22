@@ -17,7 +17,8 @@ Image Processing. Learn some of the basics of image processing such as blurring 
 |                       |        |          |
 | :---:                 | :----: |  :----:  |
 | [OpenCV Intro](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Basics_of_CV/01-Reading-Writing-and-displaying-images/01-Reading-Writing-and-displaying-images.ipynb)          |        |          |
-| Grayscaling           |        |          |
+| [Grayscaling](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Basics_of_CV/02-Grayscaling/02-Grayscaling.ipynb)           |        | 
+<img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Basics_of_CV/02-Grayscaling/Grayscale.jpg" width="90" height="50" />         |
 | Color Spaces          |        |          |
 | Histogram             |        |          |
 | Drawings of Shapes    |        |          |
