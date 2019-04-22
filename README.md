@@ -6,7 +6,7 @@ This repository includes any projects that I have completed with research, proje
 
 <img src="https://media.giphy.com/media/vwFITsRSS3cbgFNuaY/giphy.gif" width="90" height="50" />
 
-<img src="https://media.giphy.com/media/CjzhGY12j1uBUBkgUy/giphy.gif" width="100" height="100" />
+![alt tag](https://media.giphy.com/media/CjzhGY12j1uBUBkgUy/giphy.gif)
 
 The projects I plan on learning will be on the following topics. 
 
