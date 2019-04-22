@@ -4,7 +4,7 @@ This repository includes any projects that I have completed with research, proje
 
 ![alt tag](https://github.com/rchavezj/OpenCV_Projects/blob/master/OpenCV_CNN.png)
 
-<img src="https://media.giphy.com/media/vwFITsRSS3cbgFNuaY/giphy.gif" width="225" height="250" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/facialRecognition.gif" width="225" height="250" />
+<img src="https://media.giphy.com/media/vwFITsRSS3cbgFNuaY/giphy.gif" width="225" height="250" /> <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/facialRecognition.gif" width="225" height="250" />
 
 The projects I plan on learning will be on the following topics. 
 
