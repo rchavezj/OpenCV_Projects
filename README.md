@@ -20,9 +20,11 @@ Image Processing. Learn some of the basics of image processing such as blurring 
 | :---:                 | :----: |  :----:  |
 | [OpenCV Intro](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Basics_of_CV/01-Reading-Writing-and-displaying-images/01-Reading-Writing-and-displaying-images.ipynb)| <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Basics_of_CV/01-Reading-Writing-and-displaying-images/output.jpg" width="90" height="50" />       |          |
 | [Grayscaling](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Basics_of_CV/02-Grayscaling/02-Grayscaling.ipynb) |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Basics_of_CV/02-Grayscaling/Grayscale.jpg" width="90" height="50" />||
-| Color Spaces          |        |          |
-| Histogram             |        |          |
-| Drawings of Shapes    |        |          |
+| Colors HSV-Hue-Saturation-Value  | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Basics_of_CV/03-Colors-HSV-Hue-Saturation-Value/hsv_image.jpg" width="90" height="50" />       |          |
+| Colors Gray-RGB          |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Basics_of_CV/04-Colors-Gray-RGB/merged_with_blue_amplified.jpg" width="90" height="50" />      |          |
+| Color Colors-Red-Green-Blue          |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Basics_of_CV/05-Colors-Red-Green-Blue/green.jpg" width="90" height="50" />      |          |
+| Histogram             |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Basics_of_CV/06-Histograms/histogram.png" width="90" height="50" />      |          |
+| Drawings of Shapes    |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Basics_of_CV/07-Drawing-Images/I_love_Computer_vision.jpg" width="90" height="50" />      |          |
 
 ### Image Manipulation & Processing
 |  |  |   |
