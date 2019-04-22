@@ -14,9 +14,11 @@ The projects I plan on learning will be on the following topics.
 Image Processing. Learn some of the basics of image processing such as blurring an image, understanding image morphology, geometric transforms, and image histograms.
 </br>
 
+<img src="" width="90" height="50" />
+
 |                       |        |          |
 | :---:                 | :----: |  :----:  |
-| [OpenCV Intro](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Basics_of_CV/01-Reading-Writing-and-displaying-images/01-Reading-Writing-and-displaying-images.ipynb)          |        |          |
+| [OpenCV Intro](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Basics_of_CV/01-Reading-Writing-and-displaying-images/01-Reading-Writing-and-displaying-images.ipynb)| <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Basics_of_CV/01-Reading-Writing-and-displaying-images/output.jpg" width="90" height="50" />       |          |
 | [Grayscaling](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Basics_of_CV/02-Grayscaling/02-Grayscaling.ipynb) |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Basics_of_CV/02-Grayscaling/Grayscale.jpg" width="90" height="50" />||
 | Color Spaces          |        |          |
 | Histogram             |        |          |
