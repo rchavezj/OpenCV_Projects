@@ -2,9 +2,7 @@
 
 This repository includes any projects that I have completed with research, projects, or online classes that I will refer to. My main focus is on studying fields that cross Machine Learning (Convolutionary Neural Network, Support Vector Machines, and Clustering of K-means), Computer Vision, and Data Science so I can work with Self Driving Cars. 
 
-![alt tag](https://github.com/rchavezj/OpenCV_Projects/blob/master/OpenCV_CNN.png)
-
-<img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/flower.gif" width="200" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/findingLanes.gif" width="200" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/facialRecognition.gif" width="200" height="125" />
+![alt tag](https://github.com/rchavezj/OpenCV_Projects/blob/master/OpenCV_CNN.png)<img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/findingLanes.gif" width="216" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/cars.gif" width="216" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/flower.gif" width="216" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/pedistrian.gif" width="216" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/facialRecognition.gif" width="216" height="125" />
 
 # Sections: 
 ### Basics of Computer Vision and Opencv
@@ -33,22 +31,6 @@ Image Processing. Learn some of the basics of image processing such as blurring 
 | Image Pyramids (Resize)   |        |          |
 | Region of intrest (Crop)  |        |          |
 
-### Image Segmentation & Contours
-
-Segmenting Images and Obtaining Interesting Points. Apply different algorithms to cluster data, segment images, as well as find and match interesting points in an image.
-
-</br>
-
-|                             |        |          |
-| :---:                       | :----: |  :----:  |
-|  Segmentation and Contours  |        |          |
-|  Sorting Contours           |        |          |
-|  Approx. Contours           |        |          |
-|  Match Contour Shapes       |        |          |
-|  Identify Shapes            |        |          |
-|  Blob Detection (Flowers)   |        |          |
-|  Counting Shapes            |        |          |
-
 ### Object Detection in OpenCV
 |                    |        |          |
 | :---:              | :----: |  :----:  |
@@ -59,11 +41,12 @@ Segmenting Images and Obtaining Interesting Points. Apply different algorithms t
 |  Object Detection  |        |          |
 
 ### Build a Face, people and Car/Vehicle Detectors
-|                                     |        |          |
-| :---:                               | :----: |  :----:  |
-| HAAR Cascade Classifiers            |        |          |
-| Face and Eye Detection              |        |          |
-| Car & Pedestrian  Video Detection   |        |          |
+|                                 |        |          |
+| :---:                           | :----: |  :----:  |
+| HAAR Cascade Classifiers        |        |          |
+| Face and Eye Detection          |        |          |
+| [Car  Video Detection](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec06_Object_Detection/02_Car_Detection/02_Car_Detection.ipynb)            | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/cars.gif" width="90" height="50" />       |          |
+| [Pedestrian  Video Detection](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec06_Object_Detection/03_Pedestrian_Detection/03_Pedestrian_Detection.ipynb)     | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/pedistrian.gif" width="90" height="50" />       |          |
 
 ### Augmented Reality (AR) - Facial Landmark Identification
 
@@ -80,7 +63,9 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 |                                  |        |          |
 | :---:                            | :----: |  :----:  |
 |  Handwritten Digit Recognition   |        |          |
-|  Facial Recognition              |        |          |
+|  Credit Card Reader              |        |          |
+|  [Facial Recognition](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Simple_Machine_Learning/02-Face-Recognition-%C3%B1-Unlock-Your-Computer-With-Your-Face!/02-Face-Recognition-%C3%B1-Unlock-Your-Computer-With-Your-Face!.ipynb)              |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/facialRecognition.gif" width="90" height="50" />      |          |
+
 
 ### Object Tracking & Motion Analysis
 |                                     |        |          |
@@ -89,7 +74,7 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 |  Meanshift (Object Tracking)        |        |          |
 |  CAMshift (Object Tracking)         |        |          |
 |  Optical Flow                       |        |          |
-|  Ball Tracking                      |        |          |
+|  Ball Tracking                      |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/flower.gif" width="90" height="50" />      |          |
 
 ### Computational Photography
 Computational Photography. Create panoramas, remove unwanted objects from photos, enhance low light photographs, and work with High Dynamic Range (HDR) images. Calibration and Stereo Images. Learn how to calibrate cameras, remove distortion from images, change the 3D perspective of photographs, and work with stereo images to represent depth information.
