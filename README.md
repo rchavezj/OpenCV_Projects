@@ -45,8 +45,8 @@ Image Processing. Learn some of the basics of image processing such as blurring 
 | :---:                           | :----: |  :----:  |
 | HAAR Cascade Classifiers        |        |          |
 | Face and Eye Detection          |        |          |
-| Car  Video Detection            | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/cars.gif" width="90" height="50" />       |          |
-| Pedestrian  Video Detection     | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/pedistrian.gif" width="90" height="50" />       |          |
+| [Car  Video Detection](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec06_Object_Detection/02_Car_Detection/02_Car_Detection.ipynb)            | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/cars.gif" width="90" height="50" />       |          |
+| [Pedestrian  Video Detection](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec06_Object_Detection/03_Pedestrian_Detection/03_Pedestrian_Detection.ipynb)     | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/pedistrian.gif" width="90" height="50" />       |          |
 
 ### Augmented Reality (AR) - Facial Landmark Identification
 
@@ -64,7 +64,7 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 | :---:                            | :----: |  :----:  |
 |  Handwritten Digit Recognition   |        |          |
 |  Credit Card Reader              |        |          |
-|  Facial Recognition              |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/facialRecognition.gif" width="90" height="50" />      |          |
+|  [Facial Recognition](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Simple_Machine_Learning/02-Face-Recognition-%C3%B1-Unlock-Your-Computer-With-Your-Face!/02-Face-Recognition-%C3%B1-Unlock-Your-Computer-With-Your-Face!.ipynb)              |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/facialRecognition.gif" width="90" height="50" />      |          |
 
 
 ### Object Tracking & Motion Analysis
