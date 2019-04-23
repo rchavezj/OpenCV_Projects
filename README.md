@@ -74,7 +74,7 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 |  Meanshift (Object Tracking)        |        |          |
 |  CAMshift (Object Tracking)         |        |          |
 |  Optical Flow                       |        |          |
-|  Ball Tracking                      |        |          |
+|  Ball Tracking                      |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/flower.gif" width="216" height="125" />      |          |
 
 ### Computational Photography
 Computational Photography. Create panoramas, remove unwanted objects from photos, enhance low light photographs, and work with High Dynamic Range (HDR) images. Calibration and Stereo Images. Learn how to calibrate cameras, remove distortion from images, change the 3D perspective of photographs, and work with stereo images to represent depth information.
