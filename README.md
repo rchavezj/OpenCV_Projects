@@ -6,9 +6,6 @@ This repository includes any projects that I have completed with research, proje
 
 <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/findingLanes.gif" width="225" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/facialRecognition.gif" width="225" height="125" />
 
-The projects I plan on learning will be on the following topics. 
-
-
 # Sections: 
 ### Basics of Computer Vision and Opencv
 Image Processing. Learn some of the basics of image processing such as blurring an image, understanding image morphology, geometric transforms, and image histograms.
