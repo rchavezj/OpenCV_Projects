@@ -45,8 +45,8 @@ Image Processing. Learn some of the basics of image processing such as blurring 
 | :---:                           | :----: |  :----:  |
 | HAAR Cascade Classifiers        |        |          |
 | Face and Eye Detection          |        |          |
-| Car  Video Detection            | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/cars.gif" width="216" height="125" />       |          |
-| Pedestrian  Video Detection     | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/pedistrian.gif" width="216" height="125" />       |          |
+| Car  Video Detection            | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/cars.gif" width="90" height="50" />       |          |
+| Pedestrian  Video Detection     | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/pedistrian.gif" width="90" height="50" />       |          |
 
 ### Augmented Reality (AR) - Facial Landmark Identification
 
@@ -64,7 +64,7 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 | :---:                            | :----: |  :----:  |
 |  Handwritten Digit Recognition   |        |          |
 |  Credit Card Reader              |        |          |
-|  Facial Recognition              |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/facialRecognition.gif" width="216" height="125" />      |          |
+|  Facial Recognition              |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/facialRecognition.gif" width="90" height="50" />      |          |
 
 
 ### Object Tracking & Motion Analysis
@@ -74,7 +74,7 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 |  Meanshift (Object Tracking)        |        |          |
 |  CAMshift (Object Tracking)         |        |          |
 |  Optical Flow                       |        |          |
-|  Ball Tracking                      |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/flower.gif" width="216" height="125" />      |          |
+|  Ball Tracking                      |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/flower.gif" width="90" height="50" />      |          |
 
 ### Computational Photography
 Computational Photography. Create panoramas, remove unwanted objects from photos, enhance low light photographs, and work with High Dynamic Range (HDR) images. Calibration and Stereo Images. Learn how to calibrate cameras, remove distortion from images, change the 3D perspective of photographs, and work with stereo images to represent depth information.
