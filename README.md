@@ -2,7 +2,7 @@
 
 This repository includes any projects that I have completed with research, projects, or online classes that I will refer to. My main focus is on studying fields that cross Machine Learning (Convolutionary Neural Network, Support Vector Machines, and Clustering of K-means), Computer Vision, and Data Science so I can work with Self Driving Cars. 
 
-![alt tag](https://github.com/rchavezj/OpenCV_Projects/blob/master/OpenCV_CNN.png)<img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/findingLanes.gif" width="220" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/cars.gif" width="220" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/flower.gif" width="220" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/pedistrian.gif" width="220" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/facialRecognition.gif" width="216" height="125" />
+![alt tag](https://github.com/rchavezj/OpenCV_Projects/blob/master/OpenCV_CNN.png)<img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/findingLanes.gif" width="219" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/cars.gif" width="219" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/flower.gif" width="219" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/pedistrian.gif" width="219" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/facialRecognition.gif" width="219" height="125" />
 
 # Sections: 
 ### Basics of Computer Vision and Opencv
