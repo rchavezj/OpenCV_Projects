@@ -64,7 +64,7 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 | :---:                            | :----: |  :----:  |
 |  Handwritten Digit Recognition   |        |          |
 |  Credit Card Reader              |        |          |
-|  Facial Recognition              |        |          |
+|  Facial Recognition              |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/facialRecognition.gif" width="216" height="125" />      |          |
 
 
 ### Object Tracking & Motion Analysis
