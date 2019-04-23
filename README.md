@@ -45,8 +45,8 @@ Image Processing. Learn some of the basics of image processing such as blurring 
 | :---:                           | :----: |  :----:  |
 | HAAR Cascade Classifiers        |        |          |
 | Face and Eye Detection          |        |          |
-| Car  Video Detection            |        |          |
-| Pedestrian  Video Detection     |        |          |
+| Car  Video Detection            | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/cars.gif" width="216" height="125" />       |          |
+| Pedestrian  Video Detection     | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/pedistrian.gif" width="216" height="125" />       |          |
 
 ### Augmented Reality (AR) - Facial Landmark Identification
 
