@@ -31,22 +31,6 @@ Image Processing. Learn some of the basics of image processing such as blurring 
 | Image Pyramids (Resize)   |        |          |
 | Region of intrest (Crop)  |        |          |
 
-### Image Segmentation & Contours
-
-Segmenting Images and Obtaining Interesting Points. Apply different algorithms to cluster data, segment images, as well as find and match interesting points in an image.
-
-</br>
-
-|                             |        |          |
-| :---:                       | :----: |  :----:  |
-|  Segmentation and Contours  |        |          |
-|  Sorting Contours           |        |          |
-|  Approx. Contours           |        |          |
-|  Match Contour Shapes       |        |          |
-|  Identify Shapes            |        |          |
-|  Blob Detection (Flowers)   |        |          |
-|  Counting Shapes            |        |          |
-
 ### Object Detection in OpenCV
 |                    |        |          |
 | :---:              | :----: |  :----:  |
@@ -57,11 +41,12 @@ Segmenting Images and Obtaining Interesting Points. Apply different algorithms t
 |  Object Detection  |        |          |
 
 ### Build a Face, people and Car/Vehicle Detectors
-|                                     |        |          |
-| :---:                               | :----: |  :----:  |
-| HAAR Cascade Classifiers            |        |          |
-| Face and Eye Detection              |        |          |
-| Car & Pedestrian  Video Detection   |        |          |
+|                                 |        |          |
+| :---:                           | :----: |  :----:  |
+| HAAR Cascade Classifiers        |        |          |
+| Face and Eye Detection          |        |          |
+| Car  Video Detection            |        |          |
+| Pedestrian  Video Detection     |        |          |
 
 ### Augmented Reality (AR) - Facial Landmark Identification
 
@@ -78,7 +63,9 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 |                                  |        |          |
 | :---:                            | :----: |  :----:  |
 |  Handwritten Digit Recognition   |        |          |
+|  Credit Card Reader              |        |          |
 |  Facial Recognition              |        |          |
+
 
 ### Object Tracking & Motion Analysis
 |                                     |        |          |
