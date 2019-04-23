@@ -4,7 +4,7 @@ This repository includes any projects that I have completed with research, proje
 
 ![alt tag](https://github.com/rchavezj/OpenCV_Projects/blob/master/OpenCV_CNN.png)
 
-<img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/flower_.gif" width="225" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/findingLanes.gif" width="225" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/facialRecognition.gif" width="225" height="125" />
+<img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/flower_.gif" width="200" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/findingLanes.gif" width="200" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/facialRecognition.gif" width="200" height="125" />
 
 # Sections: 
 ### Basics of Computer Vision and Opencv
