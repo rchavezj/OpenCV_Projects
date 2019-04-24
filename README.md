@@ -29,15 +29,6 @@ Image Processing. Learn some of the basics of image processing such as blurring 
 | Image Pyramids (Resize)   |        |          |
 | Region of intrest (Crop)  |        |          |
 
-### Object Detection in OpenCV
-|                    |        |          |
-| :---:              | :----: |  :----:  |
-|  Finding Waldo     |        |          |
-|  Line Detection    |        |          |
-|  Circle Detection  |        |          |
-|  Blob Detection    |        |          |
-|  Object Detection  |        |          |
-
 ### Build a Face, people and Car/Vehicle Detectors
 |                                 |        |          |
 | :---:                           | :----: |  :----:  |
