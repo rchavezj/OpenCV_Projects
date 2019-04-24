@@ -45,8 +45,8 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 | :---:                         | :----: |  :----:  |
 |  Face Analysis and Filtering  |        |          |
 |  Merging Faces (Face Swaps)   |        |          |
+|  Face Reader (Yawn Detector)  |        |          |
 |  Face Swapper (Snapchat)      |        |          |
-|  Face Reader - Yawn Detector  |        |          |
 |  [Object Detector - AR](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec06_Augmented_Reality/06/06_Augmented_Machine_Learning.ipynb)         |        |   <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/Object_Detector_AR.gif" width="90" height="50" />       |
 
 ### Simple Machine Learning using OpenCV
