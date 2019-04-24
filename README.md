@@ -9,8 +9,6 @@ This repository includes any projects that I have completed with research, proje
 Image Processing. Learn some of the basics of image processing such as blurring an image, understanding image morphology, geometric transforms, and image histograms.
 </br>
 
-<img src="" width="90" height="50" />
-
 |                       |        |          |
 | :---:                 | :----: |  :----:  |
 | [OpenCV Intro](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec01_Basics_of_CV/01-Reading-Writing-and-displaying-images/01-Reading-Writing-and-displaying-images.ipynb)| <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec01_Basics_of_CV/01-Reading-Writing-and-displaying-images/output.jpg" width="90" height="50" />       |          |
