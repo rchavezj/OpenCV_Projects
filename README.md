@@ -29,7 +29,16 @@ Image Processing. Learn some of the basics of image processing such as blurring 
 | Image Pyramids (Resize)   |        |          |
 | Region of intrest (Crop)  |        |          |
 
-### Build a Face, people and Car/Vehicle Detectors
+### Object Detection - 01 
+|                    |        |          |
+| :---:              | :----: |  :----:  |
+|  Finding Waldo     |        |          |
+|  Line Detection    |        |          |
+|  Circle Detection  |        |          |
+|  Blob Detection    |        |          |
+|  Object Detection  |        |          |
+
+### Object Detector - 02 Build a Face, people and Car/Vehicle Detectors
 |                                 |        |          |
 | :---:                           | :----: |  :----:  |
 | HAAR Cascade Classifiers        |        |          |
