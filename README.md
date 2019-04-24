@@ -70,7 +70,7 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 ### Object Tracking & Motion Analysis
 |                                     |        |          |
 | :---:                               | :----: |  :----:  |
-|  Background/Foreground Subtraction  |        |          |
+|  Background Subtraction  |        |          |
 |  Meanshift (Object Tracking)        |        |          |
 |  CAMshift (Object Tracking)         |        |          |
 |  Optical Flow                       |        |          |
