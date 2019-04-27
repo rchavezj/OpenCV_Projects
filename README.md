@@ -24,7 +24,7 @@ In this section we are going to see how we are going to manipulate the image usi
 
 |  |  |   |
 | :---:                     | :----: |  :----:  |
-| Transformation            | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/00_Transformation/transformation.png" width="90" height="50">       |          |
+| Transformation            |      |          |
 | Img Translation           | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/01_Translations/tx_ty.png" width="90" height="50">       |          |
 | Rotations                 |        |          |
 | Scaling                   |        |          |
