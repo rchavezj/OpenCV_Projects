@@ -24,8 +24,8 @@ In this section we are going to see how we are going to manipulate the image usi
 
 |  |  |   |
 | :---:                     | :----: |  :----:  |
-| Transformation            | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/00_Transformation/transformation_.png" width="90" height="50">       |          |
-| Img Translation           | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/01_Translations/tx_ty.png" width="90" height="70">       |          |
+| [Transformation](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/00_Transformation/affine_nonAffine.png)            | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/00_Transformation/transformation_.png" width="90" height="50">       |          |
+| [Img Translation](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/01_Translations/01_Translations.ipynb)           | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/01_Translations/tx_ty.png" width="90" height="70">       |          |
 | Rotations                 |        |          |
 | Scaling                   |        |          |
 | Image Pyramids (Resize)   |        |          |
