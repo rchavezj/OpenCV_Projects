@@ -26,10 +26,12 @@ In this section we are going to see how we are going to manipulate the image usi
 | :---:                     | :----: |  :----:  |
 | [Transformation](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/00_Transformation/affine_nonAffine.png)            | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/00_Transformation/transformation_.png" width="90" height="50">       |          |
 | [Img Translation](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/01_Translations/01_Translations.ipynb)           | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/01_Translations/tx_ty.png" width="90" height="70">       |          |
-| Rotations                 |        |          |
+| [Rotations](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/02_Rotations/02_Rotations.ipynb)                 | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/02_Rotations/rotations.png" width="90" height="70">       |          |
 | Scaling                   |        |          |
 | Image Pyramids (Resize)   |        |          |
 | Region of intrest (Crop)  |        |          |
+
+
 
 ### Object Detection Part 1 - Intro
 |                    |        |          |
