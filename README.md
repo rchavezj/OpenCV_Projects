@@ -20,15 +20,7 @@ Image Processing. Learn some of the basics of image processing such as blurring 
 | [Drawings of Shapes](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec01_Basics_of_CV/07-Drawing-Images/07-Drawing-Images.ipynb)    |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec01_Basics_of_CV/07-Drawing-Images/rectangle.jpg" width="90" height="50" />      |          |
 
 ### Image Manipulation & Processing
-In this section we are going to see how we are going to manipulate the image using OpenCV. Here we will learn to apply the following function on an image using OpenCV:
-
-Image Transformations – Affine and Non-Affine Transformation</br>
-Image Translations – Moving image up, down, left and right</br>
-Rotation of image – Spinning the image</br>
-Scaling, Resizing, and Interpolation</br>
-Image Pyramids – Another way of resizing</br>
-Cropping – Cutting out the image region you want</br>
-Arithmetic operations for Brightening and Darkening of images
+In this section we are going to see how we are going to manipulate the image using OpenCV. Here we will learn to apply the following function on an image using OpenCV: (1) Image Transformations – Affine and Non-Affine Transformation (2) Image Translations – Moving image up, down, left and right (3) Rotation of image – Spinning the image (4) Scaling, Resizing, and Interpolation (5) Image Pyramids – Another way of resizing (6) Cropping – Cutting out the image region you want (7) Arithmetic operations for Brightening and Darkening of images
 
 |  |  |   |
 | :---:                     | :----: |  :----:  |
