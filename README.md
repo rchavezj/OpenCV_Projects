@@ -32,8 +32,14 @@ In this section we are going to see how we are going to manipulate the image usi
 | [Scaling](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/03_Scaling_re-sizing_and_interpolations/03_Scaling_re-sizing_and_interpolations.ipynb)   |   <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/03_Scaling_re-sizing_and_interpolations/scaling.png" width="90" height="70">     |          |
 | Image Pyramids (Resize)   |        |          |
 | Region of intrest (Crop)  |        |          |
+| [Bitwise Operations (Mask)](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/07_Bitwise_Operations_and_Masking/07_Bitwise_Operations_and_Masking.ipynb) | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/07_Bitwise_Operations_and_Masking/bitwiseXor.png" width="90" height="70">       |          |
+| [Convolutions & Blurring](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/08_Convolutions_and_Blurring/08_Convolutions_and_Blurring.ipynb)  |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/08_Convolutions_and_Blurring/conv.jpeg" width="90" height="70">      |          |
+| [Sharpening](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/09_Sharpening/09_Sharpening.ipynb)  |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/09_Sharpening/image_sharpening.jpeg" width="90" height="70">      |          |
+| Thresholding  |       |          |
+|  yolo |       |          |
+|  yolo |        |          |
 
-
+<img src="" width="90" height="70">
 
 ### Object Detection Part 1 - Intro
 |                    |        |          |
