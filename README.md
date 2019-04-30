@@ -35,11 +35,13 @@ In this section we are going to see how we are going to manipulate the image usi
 | [Bitwise Operations (Mask)](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/07_Bitwise_Operations_and_Masking/07_Bitwise_Operations_and_Masking.ipynb) | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/07_Bitwise_Operations_and_Masking/bitwiseXor.png" width="90" height="70">       |          |
 | [Convolutions & Blurring](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/08_Convolutions_and_Blurring/08_Convolutions_and_Blurring.ipynb)  |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/08_Convolutions_and_Blurring/conv.jpeg" width="90" height="70">      |          |
 | [Sharpening](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/09_Sharpening/09_Sharpening.ipynb)  |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/09_Sharpening/image_sharpening.jpeg" width="90" height="70">      |          |
-| Thresholding  |       |          |
-|  yolo |       |          |
-|  yolo |        |          |
+| [Thresholding](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/10_Thresholding_Binarization_%26_Adaptive_Thresholding/10_Thresholding_Binarization_%26_Adaptive_Thresholding.ipynb)  |   <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/10_Thresholding_Binarization_%26_Adaptive_Thresholding/species_thresh3_otsu.png" width="90" height="70">    |          |
+|  [Dilation & Erosion](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/11_Dilation_Erosion_Opening_and_Closing/11_Dilation_Erosion_Opening_and_Closing.ipynb) | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/11_Dilation_Erosion_Opening_and_Closing/dilation_erosion.png" width="90" height="70">      |          |
+|  [Edge Detection](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/12_Edge_Detection_%26_Image_Gradients/12_Edge_Detection_%26_Image_Gradients.ipynb) |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/12_Edge_Detection_%26_Image_Gradients/canny.png" width="90" height="70">      |          |
 
 <img src="" width="90" height="70">
+
+
 
 ### Object Detection Part 1 - Intro
 |                    |        |          |
@@ -56,8 +58,8 @@ In this section we are going to see how we are going to manipulate the image usi
 | :---:                           | :----: |  :----:  |
 | HAAR Cascade Classifiers        |        |          |
 | Face and Eye Detection          |        |          |
-| [Car  Video Detection](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec06_Object_Detection/02_Car_Detection/02_Car_Detection.ipynb)            | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/cars.gif" width="90" height="50" />       |          |
-| [Pedestrian  Video Detection](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec06_Object_Detection/03_Pedestrian_Detection/03_Pedestrian_Detection.ipynb)     | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/pedistrian.gif" width="90" height="50" />       |          |
+| [Car  Video Detection](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec06_Object_Detection/02_Car_Detection/02_Car_Detection.ipynb)            | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/cars.gif" width="90" height="70" />       |          |
+| [Pedestrian  Video Detection](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec06_Object_Detection/03_Pedestrian_Detection/03_Pedestrian_Detection.ipynb)     | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/pedistrian.gif" width="90" height="70" />       |          |
 
 ### Augmented Reality (AR) - Facial Landmark Identification
 
@@ -69,14 +71,14 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 |  Merging Faces (Face Swaps)   |        |          |
 |  Face Reader (Yawn Detector)  |        |          |
 |  Face Swapper (Snapchat)      |        |          |
-|  [Object Detector - AR](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec06_Augmented_Reality/06/06_Augmented_Machine_Learning.ipynb)  |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/Object_Detector_AR.gif" width="90" height="50" />    |          |
+|  [Object Detector - AR](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec06_Augmented_Reality/06/06_Augmented_Machine_Learning.ipynb)  |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/Object_Detector_AR.gif" width="90" height="70" />    |          |
 
 ### Simple Machine Learning using OpenCV
 |                                  |        |          |
 | :---:                            | :----: |  :----:  |
 |  Handwritten Digit Recognition   |        |          |
 |  Credit Card Reader              |        |          |
-|  [Facial Recognition](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Simple_Machine_Learning/02-Face-Recognition-%C3%B1-Unlock-Your-Computer-With-Your-Face!/02-Face-Recognition-%C3%B1-Unlock-Your-Computer-With-Your-Face!.ipynb)              |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/facialRecognition.gif" width="90" height="50" />      |          |
+|  [Facial Recognition](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Simple_Machine_Learning/02-Face-Recognition-%C3%B1-Unlock-Your-Computer-With-Your-Face!/02-Face-Recognition-%C3%B1-Unlock-Your-Computer-With-Your-Face!.ipynb)              |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/facialRecognition.gif" width="90" height="70" />      |          |
 
 
 ### Object Tracking & Motion Analysis
@@ -86,7 +88,7 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 |  Meanshift (Object Tracking)        |        |          |
 |  CAMshift (Object Tracking)         |        |          |
 |  Optical Flow                       |        |          |
-|  [Ball Tracking](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec09_Object_Tracking/Lecture%209.6%20-%20Mini%20Project%20%23%2011%20-%20Ball%20Tracking.ipynb)                      |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/flower.gif" width="90" height="50" />      |          |
+|  [Ball Tracking](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec09_Object_Tracking/Lecture%209.6%20-%20Mini%20Project%20%23%2011%20-%20Ball%20Tracking.ipynb)                      |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/flower.gif" width="90" height="70" />      |          |
 
 ### Computational Photography
 Computational Photography. Create panoramas, remove unwanted objects from photos, enhance low light photographs, and work with High Dynamic Range (HDR) images. Calibration and Stereo Images. Learn how to calibrate cameras, remove distortion from images, change the 3D perspective of photographs, and work with stereo images to represent depth information.
