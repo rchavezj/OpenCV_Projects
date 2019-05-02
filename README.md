@@ -42,6 +42,22 @@ In this section we are going to see how we are going to manipulate the image usi
 
 <img src="" width="90" height="70">
 
+### Image Segmentation & Contours
+
+Segmenting Images and Obtaining Interesting Points. Apply different algorithms to cluster data, segment images, as well as find and match interesting points in an image.
+
+|                             |        |          |
+| :---:                       | :----: |  :----:  |
+|  Segmentation and Contours  |        |          |
+|  Sorting Contours           |        |          |
+|  Approx. Contours/Convex    |        |          |
+|  Match Contour Shapes       |        |          |
+|  Identify Shapes            |        |          |
+|  Line Detection             |        |          |
+|  Circle Detection           |        |          |
+|  Blob Detection (Flowers)   |        |          |
+|  Counting Shapes            |        |          |
+
 
 
 ### Object Detection Part 1 - Intro
