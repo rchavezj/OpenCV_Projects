@@ -2,12 +2,7 @@
 
 This repository includes any projects that I have completed with research, projects, or online classes that I will refer to. My main focus is on studying fields that cross Machine Learning (Convolutionary Neural Network, Support Vector Machines, and Clustering of K-means), Computer Vision, and Data Science. 
 
-
-![alt tag](https://github.com/rchavezj/OpenCV_Projects/blob/master/OpenCV_CNN.png)
-
-<img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/OpenCV_CNN.png" width="864" height="260" />
-
-<img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/findingLanes.gif" width="216" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/cars.gif" width="216" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/flower.gif" width="216" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/pedistrian.gif" width="216" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/facialRecognition.gif" width="216" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/Object_Detector_AR.gif" width="216" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/14_Live_Sketch_Using_Webcam/cannyEdgeDetection.gif" width="216" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec03_Image_Segmentation/03_Approximating_Contours_and_Convex_Hull/contour.gif " width="216" height="125" />
+<img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/OpenCV_CNN.png" width="864" height="260" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/findingLanes.gif" width="216" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/cars.gif" width="216" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/flower.gif" width="216" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/pedistrian.gif" width="216" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/facialRecognition.gif" width="216" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/Object_Detector_AR.gif" width="216" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/14_Live_Sketch_Using_Webcam/cannyEdgeDetection.gif" width="216" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec03_Image_Segmentation/03_Approximating_Contours_and_Convex_Hull/contour.gif " width="216" height="125" />
 
 # Sections: 
 ### Basics of Computer Vision and Opencv
