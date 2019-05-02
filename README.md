@@ -65,7 +65,7 @@ Segmenting Images and Obtaining Interesting Points. Apply different algorithms t
 |  Circle Detection  | <img src="" width="90" height="70">       |          |
 |  Blob Detection    | <img src="" width="90" height="70">       |          |
 |  Object Detection  | <img src="" width="90" height="70">       |          |
-|  Histogram of Oriented Gradients    |         |       |
+|  Histogram of Oriented Gradients    | <img src="" width="90" height="70">        |       |
 
 ### Object Detection Part 2 - Build a Face, people and Car/Vehicle Detectors
 |                                 |        |          |
