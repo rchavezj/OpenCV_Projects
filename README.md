@@ -5,7 +5,7 @@ This repository includes any projects that I have completed with research, proje
 <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/OpenCV_CNN.png" width="864" height="260" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/findingLanes.gif" width="216" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/cars.gif" width="216" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/flower.gif" width="216" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/pedistrian.gif" width="216" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/facialRecognition.gif" width="216" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/Object_Detector_AR.gif" width="216" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/14_Live_Sketch_Using_Webcam/cannyEdgeDetection.gif" width="216" height="125" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec03_Image_Segmentation/03_Approximating_Contours_and_Convex_Hull/contour.gif " width="216" height="125" />
 
 # Sections: 
-### Basics of Computer Vision and Opencv
+### Basics of Computer Vision and OpenCV
 Image Processing. Learn some of the basics of image processing such as blurring an image, understanding image morphology, geometric transforms, and image histograms.
 </br>
 
