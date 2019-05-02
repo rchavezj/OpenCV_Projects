@@ -63,18 +63,18 @@ Segmenting Images and Obtaining Interesting Points. Apply different algorithms t
 ### Object Detection Part 1 - Intro
 |                    |        |          |
 | :---:              | :----: |  :----:  |
-|  Finding Waldo     |        |          |
-|  Line Detection    |        |          |
-|  Circle Detection  |        |          |
-|  Blob Detection    |        |          |
-|  Object Detection  |        |          |
+|  Finding Waldo     | <img src="" width="90" height="70">       |          |
+|  Line Detection    | <img src="" width="90" height="70">       |          |
+|  Circle Detection  | <img src="" width="90" height="70">       |          |
+|  Blob Detection    | <img src="" width="90" height="70">       |          |
+|  Object Detection  | <img src="" width="90" height="70">       |          |
 |  Histogram of Oriented Gradients    |         |       |
 
 ### Object Detection Part 2 - Build a Face, people and Car/Vehicle Detectors
 |                                 |        |          |
 | :---:                           | :----: |  :----:  |
-| HAAR Cascade Classifiers        |        |          |
-| Face and Eye Detection          |        |          |
+| HAAR Cascade Classifiers        | <img src="" width="90" height="70">       |          |
+| Face and Eye Detection          | <img src="" width="90" height="70">       |          |
 | [Car  Video Detection](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec06_Object_Detection/02_Car_Detection/02_Car_Detection.ipynb)            | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/cars.gif" width="90" height="70" />       |          |
 | [Pedestrian  Video Detection](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec06_Object_Detection/03_Pedestrian_Detection/03_Pedestrian_Detection.ipynb)     | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/pedistrian.gif" width="90" height="70" />       |          |
 
@@ -84,27 +84,27 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 
 |                               |        |          |
 | :---:                         | :----: |  :----:  |
-|  Face Analysis and Filtering  |        |          |
-|  Merging Faces (Face Swaps)   |        |          |
-|  Face Reader (Yawn Detector)  |        |          |
-|  Face Swapper (Snapchat)      |        |          |
+|  Face Analysis and Filtering  | <img src="" width="90" height="70">       |          |
+|  Merging Faces (Face Swaps)   | <img src="" width="90" height="70">       |          |
+|  Face Reader (Yawn Detector)  | <img src="" width="90" height="70">       |          |
+|  Face Swapper (Snapchat)      | <img src="" width="90" height="70">       |          |
 |  [Object Detector - AR](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec06_Augmented_Reality/06/06_Augmented_Machine_Learning.ipynb)  |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/Object_Detector_AR.gif" width="90" height="70" />    |          |
 
 ### Simple Machine Learning using OpenCV
 |                                  |        |          |
 | :---:                            | :----: |  :----:  |
-|  Handwritten Digit Recognition   |        |          |
-|  Credit Card Reader              |        |          |
+|  Handwritten Digit Recognition   | <img src="" width="90" height="70">       |          |
+|  Credit Card Reader              | <img src="" width="90" height="70">       |          |
 |  [Facial Recognition](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Simple_Machine_Learning/02-Face-Recognition-%C3%B1-Unlock-Your-Computer-With-Your-Face!/02-Face-Recognition-%C3%B1-Unlock-Your-Computer-With-Your-Face!.ipynb)              |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/facialRecognition.gif" width="90" height="70" />      |          |
 
 
 ### Object Tracking & Motion Analysis
 |                                     |        |          |
 | :---:                               | :----: |  :----:  |
-|  Background Subtraction  |        |          |
-|  Meanshift (Object Tracking)        |        |          |
-|  CAMshift (Object Tracking)         |        |          |
-|  Optical Flow                       |        |          |
+|  Background Subtraction             | <img src="" width="90" height="70">       |          |
+|  Meanshift (Object Tracking)        | <img src="" width="90" height="70">       |          |
+|  CAMshift (Object Tracking)         | <img src="" width="90" height="70">       |          |
+|  Optical Flow                       | <img src="" width="90" height="70">       |          |
 |  [Ball Tracking](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec09_Object_Tracking/Lecture%209.6%20-%20Mini%20Project%20%23%2011%20-%20Ball%20Tracking.ipynb)                      |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/flower.gif" width="90" height="70" />      |          |
 
 ### Computational Photography
@@ -113,8 +113,8 @@ Computational Photography. Create panoramas, remove unwanted objects from photos
 
 |                             |        |          |
 | :---:                       | :----: |  :----:  |
-|  Photo Restoration          |        |          |
-|  Lisence Plate Recognition  |        |          |
+|  Photo Restoration          | <img src="" width="90" height="70">       |          |
+|  Lisence Plate Recognition  | <img src="" width="90" height="70">       |          |
 
 
 
