@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/vwFITsRSS3cbgFNuaY/giphy.gif" width="900" height="500" />
+<img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/findingLanes.gif" width="220" height="125" />
 
 ```python
 # Canny edge detection 
