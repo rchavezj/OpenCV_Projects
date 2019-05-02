@@ -48,15 +48,15 @@ Segmenting Images and Obtaining Interesting Points. Apply different algorithms t
 
 |                             |        |          |
 | :---:                       | :----: |  :----:  |
-|  Segmentation and Contours  |        |          |
-|  Sorting Contours           |        |          |
-|  Approx. Contours/Convex    |        |          |
-|  Match Contour Shapes       |        |          |
-|  Identify Shapes            |        |          |
-|  Line Detection             |        |          |
-|  Circle Detection           |        |          |
-|  Blob Detection (Flowers)   |        |          |
-|  Counting Shapes            |        |          |
+|  [Segmentation and Contours](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec03_Image_Segmentation/01_Understanding_Contours/01_Understanding_Contours.ipynb)  | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec03_Image_Segmentation/01_Understanding_Contours/contour_image.jpg" width="90" height="70">       |          |
+|  [Sorting Contours](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec03_Image_Segmentation/02_Sorting_Contours/02_Sorting_Contours.ipynb)           | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec03_Image_Segmentation/02_Sorting_Contours/contours_left_to_right.jpg" width="90" height="70">       |          |
+|  [Approx. Contours & Convex] (https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec03_Image_Segmentation/03_Approximating_Contours_and_Convex_Hull/03_Approximating_Contours_and_Convex_Hull.ipynb)    | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec03_Image_Segmentation/03_Approximating_Contours_and_Convex_Hull/convexHull.jpg" width="90" height="70">       |          |
+|  [Contours & Convex Live Stream](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec03_Image_Segmentation/03_Approximating_Contours_and_Convex_Hull/03_contours_convex_live_camera.ipynb)       | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec03_Image_Segmentation/03_Approximating_Contours_and_Convex_Hull/contour.gif" width="90" height="70">       |          |
+|  Identify Shapes            | <img src="" width="90" height="70">       |          |
+|  Line Detection             | <img src="" width="90" height="70">       |          |
+|  Circle Detection           | <img src="" width="90" height="70">       |          |
+|  Blob Detection (Flowers)   | <img src="" width="90" height="70">       |          |
+|  Counting Shapes            | <img src="" width="90" height="70">       |          |
 
 
 
