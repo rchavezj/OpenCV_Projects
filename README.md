@@ -61,6 +61,7 @@ Segmenting Images and Obtaining Interesting Points. Apply different algorithms t
 ### Object Detection Part 1 - Intro
 |                    |        |          |
 | :---:              | :----: |  :----:  |
+|  [Feature Description](#)    | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/00_Feature_Description_Theory/edge.png" width="90" height="70">       |          |
 |  [Finding Waldo](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/01_Finding_Waldo/01_Finding_Waldo.ipynb)     | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/01_Finding_Waldo/output_template.jpg" width="90" height="70">       |          |
 |  Finding Corners    | <img src="" width="90" height="70">       |          |
 |  Histogram of Oriented Gradients    | <img src="" width="90" height="70">        |       |
