@@ -62,10 +62,10 @@ Segmenting Images and Obtaining Interesting Points. Apply different algorithms t
 |                    |        |          |
 | :---:              | :----: |  :----:  |
 |  [Finding Waldo](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/01_Finding_Waldo/01_Finding_Waldo.ipynb)     | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/01_Finding_Waldo/output_template.jpg" width="90" height="70">       |          |
-|  Line Detection    | <img src="" width="90" height="70">       |          |
-|  Circle Detection  | <img src="" width="90" height="70">       |          |
-|  Blob Detection    | <img src="" width="90" height="70">       |          |
-|  Object Detection  | <img src="" width="90" height="70">       |          |
+|  Finding Contours    | <img src="" width="90" height="70">       |          |
+|    | <img src="" width="90" height="70">       |          |
+|      | <img src="" width="90" height="70">       |          |
+|    | <img src="" width="90" height="70">       |          |
 |  Histogram of Oriented Gradients    | <img src="" width="90" height="70">        |       |
 
 ### Object Detection Part 2 - Build a Face, people and Car/Vehicle Detectors
