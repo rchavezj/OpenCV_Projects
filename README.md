@@ -63,7 +63,7 @@ Segmenting Images and Obtaining Interesting Points. Apply different algorithms t
 | :---:              | :----: |  :----:  |
 |  [Feature Description](#)    | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/00_Feature_Description_Theory/edge.png" width="90" height="70">       |          |
 |  [Finding Waldo](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/01_Finding_Waldo/01_Finding_Waldo.ipynb)     | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/01_Finding_Waldo/output_template.jpg" width="90" height="70">       |          |
-|  [Finding Corners](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/02_Finding_Corners/02_Finding_Corners.ipynb)    | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/02_Finding_Corners/harris_corners.jpg" width="90" height="70">       |          |
+|  [Finding Corners](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/02_Finding_Corners/02_Finding_Corners.ipynb)    | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/02_Finding_Corners/good_corners_found.jpg" width="90" height="70">       |          |
 |  Histogram of Oriented Gradients    | <img src="" width="90" height="70">        |       |
 
 ### Object Detection Part 2 - Build a Face, people and Car/Vehicle Detectors
