@@ -80,7 +80,7 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 
 |                               |        |          |
 | :---:                         | :----: |  :----:  |
-|  Face Analysis and Filtering  | <img src="" width="90" height="70">       |          |
+|  [Face Analysis and Filtering](Sec06_Augmented_Reality/01_Facial_Landmarks/01_Facial_Landmarks.ipynb)  | <img src="Sec06_Augmented_Reality/01_Facial_Landmarks/image_with_landmarks.jpg" width="90" height="70">       |          |
 |  Merging Faces (Face Swaps)   | <img src="" width="90" height="70">       |          |
 |  Face Reader (Yawn Detector)  | <img src="" width="90" height="70">       |          |
 |  Face Swapper (Snapchat)      | <img src="" width="90" height="70">       |          |
