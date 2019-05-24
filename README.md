@@ -88,7 +88,7 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 |                                  |        |          |
 | :---:                            | :----: |  :----:  |
 |  Handwritten Digit Recognition   | <img src="" width="90" height="70">       |          |
-|  Credit Card Reader (Keras/TensorFlow)             | <img src="" width="90" height="70">       |          |
+|  Credit Card Reader </br> (Keras/TensorFlow)             | <img src="" width="90" height="70">       |          |
 |  [Facial Recognition](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec07_Simple_Machine_Learning/02-Face-Recognition-%C3%B1-Unlock-Your-Computer-With-Your-Face!/02-Face-Recognition-%C3%B1-Unlock-Your-Computer-With-Your-Face!.ipynb)              |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/facialRecognition.gif" width="90" height="70" />      |          |
 
 
