@@ -2,7 +2,7 @@
 
 This repository includes any projects that I have completed with research, projects, or online classes that I will refer to. My main focus is on studying fields that cross Machine Learning (Convolutionary Neural Network, Support Vector Machines, and Clustering of K-means), Computer Vision, and Data Science. 
 
-<img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/OpenCV_CNN.png" width="864" height="260" /><img src="Sec08_Object_Tracking/05_Optical_Flow/dense_optical_flow_2.gif" width="864" height="460" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/OpenCV_GIF.gif" width="864" height="270" />
+<img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/OpenCV_CNN.png" width="864" height="260" /><img src="Sec08_Object_Tracking/05_Optical_Flow/dense_optical_flow.gif" width="864" height="460" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/OpenCV_GIF.gif" width="864" height="270" />
 
 # Sections: 
 ### Basics of Computer Vision and OpenCV
