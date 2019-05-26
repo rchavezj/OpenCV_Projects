@@ -81,16 +81,14 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 |                               |        |          |
 | :---:                         | :----: |  :----:  |
 |  [Face Analysis and Filtering](Sec06_Augmented_Reality/01_Facial_Landmarks/01_Facial_Landmarks.ipynb)  | <img src="Sec06_Augmented_Reality/01_Facial_Landmarks/image_with_landmarks.jpg" width="90" height="70">       |          |
-|  Merging Faces (Face Swaps)   | <img src="" width="90" height="70">       |          |
 |  [Face Reader (Yawn Detector)](Sec06_Augmented_Reality/04_Yawn_Detector_and_Counting/04_Yawn_Detector_and_Counting.ipynb)  | <img src="Sec06_Augmented_Reality/04_Yawn_Detector_and_Counting/facial_landmark.png" width="90" height="90">       |          |
-|  Face Swapper (Snapchat)      | <img src="" width="90" height="70">       |          |
 |  [Object Detector - AR](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec06_Augmented_Reality/06/06_Augmented_Machine_Learning.ipynb)  |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/Object_Detector_AR.gif" width="90" height="70" />    |          |
  
 ### Simple Machine Learning using OpenCV
 |                                  |        |          |
 | :---:                            | :----: |  :----:  |
 |  Handwritten Digit Recognition   | <img src="" width="90" height="70">       |          |
-|  Credit Card Reader              | <img src="" width="90" height="70">       |          |
+|  Credit Card Reader </br> (Keras/TensorFlow)             | <img src="" width="90" height="70">       |          |
 |  [Facial Recognition](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec07_Simple_Machine_Learning/02-Face-Recognition-%C3%B1-Unlock-Your-Computer-With-Your-Face!/02-Face-Recognition-%C3%B1-Unlock-Your-Computer-With-Your-Face!.ipynb)              |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/facialRecognition.gif" width="90" height="70" />      |          |
 
 
