@@ -113,5 +113,5 @@ Computational Photography. Create panoramas, remove unwanted objects from photos
 |  [Lisence Plate Recognition](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec09_Computer_Photography/03_Automatic_Number_Plate_Recognition/03_Automatic_Number_Plate_Recognition.ipynb)  | <img src="Sec09_Computer_Photography/03_Automatic_Number_Plate_Recognition/detected_plate.jpg" width="90" height="70">       |          |
 
 
-
+### Finding Lanes
 
