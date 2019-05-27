@@ -1,6 +1,6 @@
 # OpenCV_Projects
 
-This repository includes any projects that I have completed with research, projects, or online classes that I will refer to. My main focus is on studying fields that cross Machine Learning (Convolutionary Neural Network, Support Vector Machines, and Clustering of K-means), Computer Vision, and Data Science. 
+This repository includes any projects that I have completed with research, projects, or online classes that I will refer to. My main focus is to study fields that cross over Machine Learning (Convolutionary Neural Network, Support Vector Machines, and Clustering of K-means), Computer Vision, and Data Science. 
 
 <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/OpenCV_CNN.png" width="864" height="260" /><img src="Sec08_Object_Tracking/05_Optical_Flow/dense_optical_flow_v2.gif" width="864" height="460" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/OpenCV_GIF.gif" width="864" height="270" />
 
@@ -96,7 +96,7 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 |                                     |        |          |
 | :---:                               | :----: |  :----:  |
 |  [HSV Filter](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Object_Tracking/01_Filtering_By_Color/01_Filtering%20by%20Color.ipynb)                         | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Object_Tracking/01_Filtering_By_Color/hsv.png" width="90" height="70">       |          |
-|  Background Subtraction             | <img src="" width="90" height="70">       |          |
+|  [Background Subtraction](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Object_Tracking/02_Background_Subtraction/02_Background_Subtraction.ipynb)             | <img src="Sec08_Object_Tracking/02_Background_Subtraction/background_subtraction.gif" width="90" height="70">       |          |
 |  [Meanshift (Object Tracking)](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Object_Tracking/03_Meanshift_Object_Tracking/03_Meanshift_Object_Tracking.ipynb)        | <img src="Sec08_Object_Tracking/03_Meanshift_Object_Tracking/meanshift_basics.jpg" width="90" height="70">       |          |
 |  [CAMshift (Object Tracking)](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Object_Tracking/04_Camshift_Object_Tracking/04_Camshift_Object_Tracking.ipynb)         | <img src="Sec08_Object_Tracking/04_Camshift_Object_Tracking/camshift_face.gif" width="90" height="90">       |          |
 |  [Optical Flow](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Object_Tracking/05_Optical_Flow/05_Optical%20Flow%20Object%20Tracking.ipynb)                       | <img src="Sec08_Object_Tracking/05_Optical_Flow/dense_optical_flow.gif" width="90" height="70">       |          |
