@@ -108,9 +108,10 @@ Computational Photography. Create panoramas, remove unwanted objects from photos
 
 |                             |        |          |
 | :---:                       | :----: |  :----:  |
-|  Photo Restoration          | <img src="" width="90" height="70">       |          |
-|  Lisence Plate Recognition  | <img src="" width="90" height="70">       |          |
+|  [Photo Denoising](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec09_Computer_Photography/01_Photo_Denoising/01_Photo_Denoising.ipynb)          | <img src="Sec09_Computer_Photography/01_Photo_Denoising/fast_means_denoising.jpg" width="90" height="70">       |          |
+|  [Photo Restoration](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec09_Computer_Photography/02_Photo_Restoration_using_inpainting/02_Photo_Restoration_using_inpainting.ipynb)          | <img src="Sec09_Computer_Photography/02_Photo_Restoration_using_inpainting/restored.jpg" width="90" height="70">       |          |
+|  [Lisence Plate Recognition](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec09_Computer_Photography/03_Automatic_Number_Plate_Recognition/03_Automatic_Number_Plate_Recognition.ipynb)  | <img src="Sec09_Computer_Photography/03_Automatic_Number_Plate_Recognition/detected_plate.jpg" width="90" height="70">       |          |
 
 
-
+### Finding Lanes
 
