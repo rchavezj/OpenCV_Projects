@@ -123,7 +123,7 @@ Computational Photography. Create panoramas, remove unwanted objects from photos
 ### Deep Learning
 |                       |        |          |
 | :---:                 | :----: |  :----:  |
-| [Neural Style Transfer](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec11_Deep_Learning/01_Neural_Style_Transfer/01_Neural_Style_Transfer_Image.ipynb)    |  <img src="Sec11_Deep_Learning/01_Neural_Style_Transfer/n_style_transfer.gif" width="90" height="70">      |          |
+| [Neural Style Transfer (Image)](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec11_Deep_Learning/01_Neural_Style_Transfer/01_Neural_Style_Transfer_Image.ipynb)  </br> [Neural Style Transfer (Video Stream)](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec11_Deep_Learning/01_Neural_Style_Transfer/01_Neural_Style_Transfer_Vid_Stream.ipynb)  |  <img src="Sec11_Deep_Learning/01_Neural_Style_Transfer/n_style_transfer.gif" width="90" height="70">      |          |
 
 
 
