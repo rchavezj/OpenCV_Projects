@@ -2,7 +2,7 @@
 
 This repository includes any projects that I have completed with research, projects, or online classes that I will refer to. My main focus is to study fields that cross over Machine Learning (Convolutionary Neural Network, Support Vector Machines, and Clustering of K-means), Computer Vision, and Data Science. 
 
-<img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/OpenCV_CNN.png" width="864" height="260" /><img src="Sec08_Object_Tracking/05_Optical_Flow/dense_optical_flow_v2.gif" width="432" height="460" /><img src="Sec11_Deep_Learning/01_Neural_Style_Transfer/n_style_transfer.gif" width="432" height="460" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/OpenCV_GIF.gif" width="864" height="270" />
+<img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/OpenCV_CNN.png" width="864" height="260" /><img src="Sec08_Object_Tracking/05_Optical_Flow/dense_optical_flow_v2.gif" width="432" height="360" /><img src="Sec11_Deep_Learning/01_Neural_Style_Transfer/n_style_transfer.gif" width="432" height="360" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/OpenCV_GIF.gif" width="864" height="270" />
 
 # Sections: 
 ### Basics of Computer Vision and OpenCV
@@ -113,5 +113,19 @@ Computational Photography. Create panoramas, remove unwanted objects from photos
 |  [Lisence Plate Recognition](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec09_Computer_Photography/03_Automatic_Number_Plate_Recognition/03_Automatic_Number_Plate_Recognition.ipynb)  | <img src="Sec09_Computer_Photography/03_Automatic_Number_Plate_Recognition/detected_plate.jpg" width="90" height="70">       |          |
 
 
-### Finding Lanes
+### Self Driving Cars
+|                       |        |          |
+| :---:                 | :----: |  :----:  |
+| [Finding Lanes](https://github.com/rchavezj/OpenCV_Projects/tree/master/Sec10_Finding_Lanes)    |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/findingLanes.gif" width="90" height="70">      |          |
+
+
+
+### Deep Learning
+|                       |        |          |
+| :---:                 | :----: |  :----:  |
+| [Neural Style Transfer (Image)](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec11_Deep_Learning/01_Neural_Style_Transfer/01_Neural_Style_Transfer_Image.ipynb)  </br> [Neural Style Transfer (Video Stream)](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec11_Deep_Learning/01_Neural_Style_Transfer/01_Neural_Style_Transfer_Vid_Stream.ipynb)  |  <img src="Sec11_Deep_Learning/01_Neural_Style_Transfer/n_style_transfer.gif" width="90" height="70">      |          |
+
+
+
+
 
