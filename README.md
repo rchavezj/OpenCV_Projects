@@ -87,7 +87,7 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 ### Simple Machine Learning using OpenCV
 |                                  |        |          |
 | :---:                            | :----: |  :----:  |
-|  Handwritten Digit Recognition   | <img src="" width="90" height="70">       |          |
+|  [Handwritten Digit Recognition](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec07_Simple_Machine_Learning/01_Digit_Classifier/train_digits.ipynb)   | <img src="Sec07_Simple_Machine_Learning/01_Digit_Classifier/digits-classification.jpg" width="90" height="70">       |          |
 |  [Credit Card Reader](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec07_Simple_Machine_Learning/02_Credit_Card_Reader/03_Credit_Card_Reader.ipynb)              | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec07_Simple_Machine_Learning/02_Credit_Card_Reader/output.jpg" width="90" height="70">       |          |
 |  [Facial Recognition](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec07_Simple_Machine_Learning/02-Face-Recognition-%C3%B1-Unlock-Your-Computer-With-Your-Face!/02-Face-Recognition-%C3%B1-Unlock-Your-Computer-With-Your-Face!.ipynb)              |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/facialRecognition.gif" width="90" height="70" />      |          |
 
