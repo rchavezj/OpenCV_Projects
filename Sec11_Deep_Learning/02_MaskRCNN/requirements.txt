@@ -1,0 +1,9 @@
+numpy
+scipy
+cython
+h5py
+Pillow
+scikit-image
+tensorflow-gpu==1.5
+keras
+jupyter
