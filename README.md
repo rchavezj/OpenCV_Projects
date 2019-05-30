@@ -11,7 +11,10 @@ This repository includes any projects that I have completed with research, proje
 4. [Object Detection Part 1 - Intro](#Object-Detection-Part-1---Intro)
 5. [Object Detection Part 2 - Build a Face, people and Car/Vehicle Detectors](#Object-Detection-Part-2---Build-a-Face,-people-and-Car/Vehicle-Detectors)
 6. [Augmented Reality (AR) - Facial Landmark Identification](#Augmented-Reality-(AR)---Facial-Landmark-Identification)
-
+3. [Simple Machine Learning using OpenCV](#Simple-Machine-Learning-using-OpenCV)
+3. [Object Tracking & Motion Analysis](#Object-Tracking-&-Motion-Analysis)
+3. [Computational Photography](#Computational-Photography)
+3. [Deep Learning](#Deep-Learning)
 
 
 # Sections: 
