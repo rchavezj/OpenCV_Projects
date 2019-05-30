@@ -6,7 +6,7 @@ This repository includes any projects that I have completed with research, proje
 
 ## Contents
 1. [Basics of Computer Vision and OpenCV](#Basics-of-Computer-Vision-and-OpenCV)
-2. [Image Manipulation & Processing](#Image-Manipulation-&\-Processing)
+2. [Image Manipulation & Processing](#Image-Manipulation-\&-Processing)
 3. [Image Segmentation & Contours](#Image-Segmentation-&/-Contours)
 4. [Object Detection Part 1 - Intro](#Object-Detection-Part-1---Intro)
 5. [Object Detection Part 2 - Build a Face, people and Car/Vehicle Detectors](#Object-Detection-Part-2---Build-a-Face,\-people-and-Car/Vehicle-Detectors)
