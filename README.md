@@ -25,7 +25,8 @@ Image Processing. Learn some of the basics of image processing such as blurring 
 
 |                       |        |          |
 | :---:                 | :----: |  :----:  |
-| [OpenCV Intro](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec01_Basics_of_CV/01-Reading-Writing-and-displaying-images/01-Reading-Writing-and-displaying-images.ipynb)| <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec01_Basics_of_CV/01-Reading-Writing-and-displaying-images/output.jpg" width="90" height="70" />       |          |
+| [OpenCV Intro](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec01_Basics_of_CV/01-Reading-Writing-and-displaying-images/01-Reading-Writing-and-displaying-images.ipynb)| <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec01_Basics_of_CV/01-Reading-Writing-and-displaying-images/output.jpg" width="90" height="70" />       |  plt.imshow(cv2.cvtColor(input, cv2.COLOR_BGR2RGB))
+        |
 | [Grayscaling](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec01_Basics_of_CV/02-Grayscaling/02-Grayscaling.ipynb) |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec01_Basics_of_CV/02-Grayscaling/Grayscale.jpg" width="90" height="70" />||
 | [Colors HSV-Hue](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec01_Basics_of_CV/03-Colors-HSV-Hue-Saturation-Value/03-Colors-HSV-Hue-Saturation-Value.ipynb)  | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec01_Basics_of_CV/03-Colors-HSV-Hue-Saturation-Value/hsv_image.jpg" width="90" height="70" />       |          |
 | [Colors Gray-RGB](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec01_Basics_of_CV/04-Colors-Gray-RGB/04-Colors-Gray-RGB.ipynb) |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec01_Basics_of_CV/04-Colors-Gray-RGB/merged_with_blue_amplified.jpg" width="90" height="70" />      |          |
