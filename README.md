@@ -9,7 +9,7 @@ This repository includes any projects that I have completed with research, proje
 2. [Image Manipulation and Processing](#Image-Manipulation-and-Processing)
 3. [Image Segmentation and Contours](#Image-Segmentation-and-Contours)
 4. [Object Detection Part 1: Intro](#Object-Detection-Part-1-Intro)
-5. [Object Detection Part 2: Build a Face, people and Car Detectors](#Object-Detection-Part-2-Build-a-Face,-people-and-Car-Detectors)
+5. [Object Detection Part 2: Build a Face, people and Car Detectors](#Object-Detection-Part-2-Build-a-Face-people-and-Car-Detectors)
 6. [Augmented Reality (AR): Facial Landmark Identification](#Augmented-Reality-(AR)-Facial-Landmark-Identification)
 3. [Simple Machine Learning using OpenCV](#Simple-Machine-Learning-using-OpenCV)
 3. [Object Tracking and Motion Analysis](#Object-Tracking-and-Motion-Analysis)
