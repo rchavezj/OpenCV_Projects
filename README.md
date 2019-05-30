@@ -4,18 +4,18 @@ This repository includes any projects that I have completed with research, proje
 
 <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/OpenCV_CNN.png" width="864" height="260" /><img src="Sec08_Object_Tracking/05_Optical_Flow/dense_optical_flow_v2.gif" width="432" height="360" /><img src="Sec11_Deep_Learning/01_Neural_Style_Transfer/n_style_transfer.gif" width="432" height="360" /><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/OpenCV_GIF.gif" width="864" height="270" />
 
-## Contents
+# Contents
 1. [Basics of Computer Vision and OpenCV](#Basics-of-Computer-Vision-and-OpenCV)
 2. [Image Manipulation and Processing](#Image-Manipulation-and-Processing)
 3. [Image Segmentation and Contours](#Image-Segmentation-and-Contours)
 4. [Object Detection Part 1: Intro](#Object-Detection-Part-1-Intro)
 5. [Object Detection Part 2: Build a Face, people and Car Detectors](#Object-Detection-Part-2-Build-a-Face-people-and-Car-Detectors)
 6. [Augmented Reality (AR): Facial Landmark Identification](#Augmented-Reality-AR-Facial-Landmark-Identification)
-3. [Simple Machine Learning using OpenCV](#Simple-Machine-Learning-using-OpenCV)
-3. [Object Tracking and Motion Analysis](#Object-Tracking-and-Motion-Analysis)
-3. [Computational Photography](#Computational-Photography)
-3. [Self Driving Cars](#Self-Driving-Cars)
-3. [Deep Learning](#Deep-Learning)
+7. [Simple Machine Learning using OpenCV](#Simple-Machine-Learning-using-OpenCV)
+8. [Object Tracking and Motion Analysis](#Object-Tracking-and-Motion-Analysis)
+9. [Computational Photography](#Computational-Photography)
+10. [Self Driving Cars](#Self-Driving-Cars)
+11. [Deep Learning](#Deep-Learning)
 
 
 # Sections: 
