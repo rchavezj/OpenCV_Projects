@@ -6,13 +6,13 @@ This repository includes any projects that I have completed with research, proje
 
 ## Contents
 1. [Basics of Computer Vision and OpenCV](#Basics-of-Computer-Vision-and-OpenCV)
-2. [Image Manipulation & Processing](#Image-Manipulation-\&-Processing)
-3. [Image Segmentation & Contours](#Image-Segmentation-\&/-Contours)
-4. [Object Detection Part 1 - Intro](#Object-Detection-Part-1---Intro)
-5. [Object Detection Part 2 - Build a Face, people and Car/Vehicle Detectors](#Object-Detection-Part-2---Build-a-Face,\-people-and-Car/Vehicle-Detectors)
-6. [Augmented Reality (AR) - Facial Landmark Identification](#Augmented-Reality-(AR)---Facial-Landmark-Identification)
+2. [Image Manipulation and Processing](#Image-Manipulation-and-Processing)
+3. [Image Segmentation and Contours](#Image-Segmentation-and-Contours)
+4. [Object Detection Part 1: Intro](#Object-Detection-Part-1:-Intro)
+5. [Object Detection Part 2: Build a Face, people and Car Detectors](#Object-Detection-Part-2:-Build-a-Face,-people-and-Car-Detectors)
+6. [Augmented Reality (AR): Facial Landmark Identification](#Augmented-Reality-(AR):-Facial-Landmark-Identification)
 3. [Simple Machine Learning using OpenCV](#Simple-Machine-Learning-using-OpenCV)
-3. [Object Tracking & Motion Analysis](#Object-Tracking-/&-Motion-Analysis)
+3. [Object Tracking and Motion Analysis](#Object-Tracking-and-Motion-Analysis)
 3. [Computational Photography](#Computational-Photography)
 3. [Self Driving Cars](#Self-Driving-Cars)
 3. [Deep Learning](#Deep-Learning)
@@ -33,7 +33,7 @@ Image Processing. Learn some of the basics of image processing such as blurring 
 | [Histogram](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec01_Basics_of_CV/06-Histograms/06-Histograms.ipynb)             |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec01_Basics_of_CV/06-Histograms/histogram.png" width="90" height="70" />      |          |
 | [Drawings of Shapes](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec01_Basics_of_CV/07-Drawing-Images/07-Drawing-Images.ipynb)    |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec01_Basics_of_CV/07-Drawing-Images/rectangle.jpg" width="90" height="70" />      |          |
 
-### Image Manipulation & Processing
+### Image Manipulation and Processing
 In this section we are going to see how we are going to manipulate the image using OpenCV. Here we will learn to apply the following function on an image using OpenCV: (1) Image Transformations – Affine and Non-Affine Transformation (2) Image Translations – Moving image up, down, left and right (3) Rotation of image – Spinning the image (4) Scaling, Resizing, and Interpolation (5) Image Pyramids – Another way of resizing (6) Cropping – Cutting out the image region you want (7) Arithmetic operations for Brightening and Darkening of images
 
 |  |  |   |
@@ -88,7 +88,7 @@ Segmenting Images and Obtaining Interesting Points. Apply different algorithms t
 | [Car  Video Detection](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec05_Object_Detection_02/02_Car_Detection/02_Car_Detection.ipynb)            | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/cars.gif" width="90" height="70" />       |          |
 | [Pedestrian  Video Detection](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec05_Object_Detection_02/03_Pedestrian_Detection/03_Pedestrian_Detection.ipynb)     | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/pedistrian.gif" width="90" height="70" />       |          |
 
-### Augmented Reality_AR: Facial Landmark Identification
+### Augmented Reality (AR): Facial Landmark Identification
 
 Recognizing Objects. Detect different shapes, faces, people, and learn how to train a detector to detect custom objects and to recognize faces.
 
