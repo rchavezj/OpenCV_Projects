@@ -14,6 +14,7 @@ This repository includes any projects that I have completed with research, proje
 3. [Simple Machine Learning using OpenCV](#Simple-Machine-Learning-using-OpenCV)
 3. [Object Tracking & Motion Analysis](#Object-Tracking-&-Motion-Analysis)
 3. [Computational Photography](#Computational-Photography)
+3. [Self Driving Cars](#Self-Driving-Cars)
 3. [Deep Learning](#Deep-Learning)
 
 
