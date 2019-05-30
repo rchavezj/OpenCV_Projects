@@ -53,7 +53,7 @@ In this section we are going to see how we are going to manipulate the image usi
 |  [Perspective & Affine Transforms](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/13_Perspective_%26_Affine_Transforms/13_Perspective_%26_Affine_Transforms.ipynb)  |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/13_Perspective_%26_Affine_Transforms/affineTransform.png" width="90" height="70">      |          |
 |  [Live Sketch Using Webcam](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/14_Live_Sketch_Using_Webcam/14_Live_Sketch_Using_Webcam.ipynb)  |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/14_Live_Sketch_Using_Webcam/cannyEdgeDetection.gif" width="90" height="70">      |          |
 
-### Image Segmentation & Contours
+### Image Segmentation and Contours
 
 Segmenting Images and Obtaining Interesting Points. Apply different algorithms to cluster data, segment images, as well as find and match interesting points in an image.
 
@@ -72,7 +72,7 @@ Segmenting Images and Obtaining Interesting Points. Apply different algorithms t
 
 
 
-### Object Detection Part 1 - Intro
+### Object Detection Part 1: Intro
 |                    |        |          |
 | :---:              | :----: |  :----:  |
 |  [Feature Description](#)    | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/00_Feature_Description_Theory/edge.png" width="90" height="70">       |          |
@@ -80,7 +80,7 @@ Segmenting Images and Obtaining Interesting Points. Apply different algorithms t
 |  [Finding Corners](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/02_Finding_Corners/02_Finding_Corners.ipynb)    | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/02_Finding_Corners/good_corners_found.jpg" width="90" height="70">       |          |
 |  [Histogram of Oriented Gradients](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/05_Histogram_of_Oriented_Gradients/05_Histogram_of_Oriented_Gradients.ipynb)    | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/05_Histogram_of_Oriented_Gradients/ouput_gradient.jpg" width="90" height="70">        |       |
 
-### Object Detection Part 2 - Build a Face, people and Car/Vehicle Detectors
+### Object Detection Part 2: Build a Face, people and Car Detectors
 |                                 |        |          |
 | :---:                           | :----: |  :----:  |
 | [HAAR Cascade Classifiers](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec05_Object_Detection_02/00_HAAR_Cascade/HAAR_01.png)        | <img src="Sec05_Object_Detection_02/00_HAAR_Cascade/haar_cascade.png" width="90" height="70">       |          |
@@ -88,7 +88,7 @@ Segmenting Images and Obtaining Interesting Points. Apply different algorithms t
 | [Car  Video Detection](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec05_Object_Detection_02/02_Car_Detection/02_Car_Detection.ipynb)            | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/cars.gif" width="90" height="70" />       |          |
 | [Pedestrian  Video Detection](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec05_Object_Detection_02/03_Pedestrian_Detection/03_Pedestrian_Detection.ipynb)     | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/pedistrian.gif" width="90" height="70" />       |          |
 
-### Augmented Reality (AR) - Facial Landmark Identification
+### Augmented Reality_AR: Facial Landmark Identification
 
 Recognizing Objects. Detect different shapes, faces, people, and learn how to train a detector to detect custom objects and to recognize faces.
 
@@ -106,7 +106,7 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 |  [Facial Recognition](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec07_Simple_Machine_Learning/02-Face-Recognition-%C3%B1-Unlock-Your-Computer-With-Your-Face!/02-Face-Recognition-%C3%B1-Unlock-Your-Computer-With-Your-Face!.ipynb)              |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/facialRecognition.gif" width="90" height="70" />      |          |
 
 
-### Object Tracking & Motion Analysis
+### Object Tracking and Motion Analysis
 |                                     |        |          |
 | :---:                               | :----: |  :----:  |
 |  [HSV Filter](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Object_Tracking/01_Filtering_By_Color/01_Filtering%20by%20Color.ipynb)                         | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Object_Tracking/01_Filtering_By_Color/hsv.png" width="90" height="70">       |          |
