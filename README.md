@@ -19,7 +19,7 @@ This repository includes any projects that I have completed with research, proje
 
 
 # Sections: 
-### Basics of Computer Vision and OpenCV
+### Basics of Computer Vision and OpenCV [(Return back to Contents)](#Contents)
 Image Processing. Learn some of the basics of image processing such as blurring an image, understanding image morphology, geometric transforms, and image histograms.
 </br>
 
