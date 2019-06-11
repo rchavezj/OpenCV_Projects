@@ -33,7 +33,7 @@ Image Processing. Learn some of the basics of image processing such as blurring 
 | [Histogram](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec01_Basics_of_CV/06-Histograms/06-Histograms.ipynb)             |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec01_Basics_of_CV/06-Histograms/histogram.png" width="90" height="70" />      |   # We plot a histogram, ravel() flatens our image array </br> plt.hist(image.ravel(), 256, [0, 256]); plt.show() </br># We now separate the colors and plot each in the Histogram </br> histogram2 = cv2.calcHist([image], [i], None, [256], [0, 256])|
 | [Drawings of Shapes](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec01_Basics_of_CV/07-Drawing-Images/07-Drawing-Images.ipynb)    |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec01_Basics_of_CV/07-Drawing-Images/rectangle.jpg" width="90" height="70" />      | |
 
-### Image Manipulation and Processing
+### Image Manipulation and Processing [(Return back to Contents)](#Contents)
 In this section we are going to see how we are going to manipulate the image using OpenCV. Here we will learn to apply the following function on an image using OpenCV: (1) Image Transformations – Affine and Non-Affine Transformation (2) Image Translations – Moving image up, down, left and right (3) Rotation of image – Spinning the image (4) Scaling, Resizing, and Interpolation (5) Image Pyramids – Another way of resizing (6) Cropping – Cutting out the image region you want (7) Arithmetic operations for Brightening and Darkening of images
 
 |  |  |   |
@@ -53,7 +53,7 @@ In this section we are going to see how we are going to manipulate the image usi
 |  [Perspective & Affine Transforms](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/13_Perspective_%26_Affine_Transforms/13_Perspective_%26_Affine_Transforms.ipynb)  |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/13_Perspective_%26_Affine_Transforms/affineTransform.png" width="90" height="70">      |          |
 |  [Live Sketch Using Webcam](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/14_Live_Sketch_Using_Webcam/14_Live_Sketch_Using_Webcam.ipynb)  |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/14_Live_Sketch_Using_Webcam/cannyEdgeDetection.gif" width="90" height="70">      |          |
 
-### Image Segmentation and Contours
+### Image Segmentation and Contours [(Return back to Contents)](#Contents)
 
 Segmenting Images and Obtaining Interesting Points. Apply different algorithms to cluster data, segment images, as well as find and match interesting points in an image.
 
@@ -72,7 +72,7 @@ Segmenting Images and Obtaining Interesting Points. Apply different algorithms t
 
 
 
-### Object Detection Part 1: Intro
+### Object Detection Part 1: Intro [(Return back to Contents)](#Contents)
 |                    |        |          |
 | :---:              | :----: |  :----:  |
 |  [Feature Description](#)    | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/00_Feature_Description_Theory/edge.png" width="90" height="70">       |          |
@@ -80,7 +80,7 @@ Segmenting Images and Obtaining Interesting Points. Apply different algorithms t
 |  [Finding Corners](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/02_Finding_Corners/02_Finding_Corners.ipynb)    | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/02_Finding_Corners/good_corners_found.jpg" width="90" height="70">       |          |
 |  [Histogram of Oriented Gradients](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/05_Histogram_of_Oriented_Gradients/05_Histogram_of_Oriented_Gradients.ipynb)    | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/05_Histogram_of_Oriented_Gradients/ouput_gradient.jpg" width="90" height="70">        |       |
 
-### Object Detection Part 2: Build a Face, people and Car Detectors
+### Object Detection Part 2: Build a Face, people and Car Detectors [(Return back to Contents)](#Contents)
 |                                 |        |          |
 | :---:                           | :----: |  :----:  |
 | [HAAR Cascade Classifiers](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec05_Object_Detection_02/00_HAAR_Cascade/HAAR_01.png)        | <img src="Sec05_Object_Detection_02/00_HAAR_Cascade/haar_cascade.png" width="90" height="70">       |          |
@@ -88,7 +88,7 @@ Segmenting Images and Obtaining Interesting Points. Apply different algorithms t
 | [Car  Video Detection](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec05_Object_Detection_02/02_Car_Detection/02_Car_Detection.ipynb)            | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/cars.gif" width="90" height="70" />       |          |
 | [Pedestrian  Video Detection](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec05_Object_Detection_02/03_Pedestrian_Detection/03_Pedestrian_Detection.ipynb)     | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/pedistrian.gif" width="90" height="70" />       |          |
 
-### Augmented Reality (AR): Facial Landmark Identification
+### Augmented Reality (AR): Facial Landmark Identification [(Return back to Contents)](#Contents)
 
 Recognizing Objects. Detect different shapes, faces, people, and learn how to train a detector to detect custom objects and to recognize faces.
 
@@ -98,7 +98,7 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 |  [Face Reader (Yawn Detector)](Sec06_Augmented_Reality/04_Yawn_Detector_and_Counting/04_Yawn_Detector_and_Counting.ipynb)  | <img src="Sec06_Augmented_Reality/04_Yawn_Detector_and_Counting/facial_landmark.png" width="90" height="70">       |          |
 |  [Object Detector - AR </br> (Keras/TensorFlow)](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec06_Augmented_Reality/06/06_Augmented_Machine_Learning.ipynb)  |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/Object_Detector_AR.gif" width="90" height="70" />    |          |
  
-### Simple Machine Learning using OpenCV
+### Simple Machine Learning using OpenCV [(Return back to Contents)](#Contents)
 |                                  |        |          |
 | :---:                            | :----: |  :----:  |
 |  [Handwritten Digit Recognition](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec07_Simple_Machine_Learning/01_Digit_Classifier/train_digits.ipynb)   | <img src="Sec07_Simple_Machine_Learning/01_Digit_Classifier/digits-classification.jpg" width="90" height="70">       |          |
@@ -106,7 +106,7 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 |  [Facial Recognition](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec07_Simple_Machine_Learning/02-Face-Recognition-%C3%B1-Unlock-Your-Computer-With-Your-Face!/02-Face-Recognition-%C3%B1-Unlock-Your-Computer-With-Your-Face!.ipynb)              |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/facialRecognition.gif" width="90" height="70" />      |          |
 
 
-### Object Tracking and Motion Analysis
+### Object Tracking and Motion Analysis [(Return back to Contents)](#Contents)
 |                                     |        |          |
 | :---:                               | :----: |  :----:  |
 |  [HSV Filter](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Object_Tracking/01_Filtering_By_Color/01_Filtering%20by%20Color.ipynb)                         | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Object_Tracking/01_Filtering_By_Color/hsv.png" width="90" height="70">       |          |
@@ -116,7 +116,7 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 |  [Optical Flow](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Object_Tracking/05_Optical_Flow/05_Optical%20Flow%20Object%20Tracking.ipynb)                       | <img src="Sec08_Object_Tracking/05_Optical_Flow/dense_optical_flow.gif" width="90" height="70">       |          |
 |  [Ball Tracking](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Object_Tracking/06_Ball%20Tracking.ipynb)                      |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/flower.gif" width="90" height="70" />      |          |
 
-### Computational Photography
+### Computational Photography [(Return back to Contents)](#Contents)
 Computational Photography. Create panoramas, remove unwanted objects from photos, enhance low light photographs, and work with High Dynamic Range (HDR) images. Calibration and Stereo Images. Learn how to calibrate cameras, remove distortion from images, change the 3D perspective of photographs, and work with stereo images to represent depth information.
 </br>
 
@@ -127,14 +127,14 @@ Computational Photography. Create panoramas, remove unwanted objects from photos
 |  [Lisence Plate Recognition](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec09_Computer_Photography/03_Automatic_Number_Plate_Recognition/03_Automatic_Number_Plate_Recognition.ipynb)  | <img src="Sec09_Computer_Photography/03_Automatic_Number_Plate_Recognition/detected_plate.jpg" width="90" height="70">       |          |
 
 
-### Self Driving Cars
+### Self Driving Cars [(Return back to Contents)](#Contents)
 |                       |        |          |
 | :---:                 | :----: |  :----:  |
 | [Finding Lanes](https://github.com/rchavezj/OpenCV_Projects/tree/master/Sec10_Finding_Lanes)    |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/findingLanes.gif" width="90" height="70">      |          |
 
 
 
-### Deep Learning
+### Deep Learning [(Return back to Contents)](#Contents)
 |                       |        |          |
 | :---:                 | :----: |  :----:  |
 | [Neural Style Transfer (Image)](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec11_Deep_Learning/01_Neural_Style_Transfer/01_Neural_Style_Transfer_Image.ipynb)  </br>  [Neural Style Transfer (Video Stream)](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec11_Deep_Learning/01_Neural_Style_Transfer/01_Neural_Style_Transfer_Vid_Stream.ipynb)  |  <img src="Sec11_Deep_Learning/01_Neural_Style_Transfer/n_style_transfer.gif" width="240" height="80">      |   Generate a new image/frame from transferring the style of another source that was optimized. The content from the input remains intact for the output.|
