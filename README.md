@@ -137,7 +137,7 @@ Computational Photography. Create panoramas, remove unwanted objects from photos
 ### ([Return back to Contents](#Contents))
 |                       |        |          |
 | :---:                 | :----: |  :----:  |
-| [Finding Lanes](https://github.com/rchavezj/OpenCV_Projects/tree/master/Sec10_Finding_Lanes)    |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/findingLanes.gif" width="90" height="70">      |          |
+| [Finding Lanes](https://github.com/rchavezj/OpenCV_Projects/tree/master/Sec10_Self_Driving_Cars)    |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/findingLanes.gif" width="90" height="70">      |          |
 
 
 ### Deep Learning 
