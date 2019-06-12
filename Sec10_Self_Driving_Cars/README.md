@@ -36,7 +36,7 @@ def canny(img):
     canny = cv2.Canny(gray, 50, 150)
     return canny
 ```
-![alt text](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec10_Finding_Lanes/images/cannyEdgeDetection.png)
+![alt text](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec10_Self_Driving_Cars/images/cannyEdgeDetection.png)
 
 ```python
 # We need to mask the image to 
@@ -71,7 +71,7 @@ def region_of_interest(canny):
     masked_image = cv2.bitwise_and(canny, mask)
     return masked_image
 ```
-![alt text](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec10_Finding_Lanes/images/regionOfInterest.png)
+![alt text](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec10_Self_Driving_Cars/images/regionOfInterest.png)
 
 
 ```python
@@ -128,7 +128,7 @@ def average_slope_intercept(image, lines):
     averaged_lines = [left_line, right_line]
     return averaged_lines
 ```
-![alt text](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec10_Finding_Lanes/images/averageSmoothLines.png)
+![alt text](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec10_Self_Driving_Cars/images/averageSmoothLines.png)
 
 
 ```python
@@ -152,7 +152,7 @@ def display_lines(img,lines):
                 cv2.line(line_image,(x1,y1),(x2,y2),(255,0,0),10)
     return line_image
 ```
-![alt text](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec10_Finding_Lanes/images/findingLanes.png)
+![alt text](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec10_Self_Driving_Cars/images/findingLanes.png)
 
 
 
