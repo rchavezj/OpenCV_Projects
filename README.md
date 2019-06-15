@@ -18,6 +18,7 @@ This repository includes any projects that I have completed with research, proje
 11. [Deep Learning](#Deep-Learning)
 
 
+
 # Sections: 
 ### Basics of Computer Vision and OpenCV 
 ### ([Return back to Contents](#Contents))
@@ -33,6 +34,8 @@ Image Processing. Learn some of the basics of image processing such as blurring 
 | [Color Red-Green-Blue](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec01_Basics_of_CV/05-Colors-Red-Green-Blue/05-Colors-Red-Green-Blue.ipynb)          |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec01_Basics_of_CV/05-Colors-Red-Green-Blue/green.jpg" width="90" height="70" />      |   Computers can only understand three colors: red, green, and blue. This topic helps us tweek the color intensity       |
 | [Histogram](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec01_Basics_of_CV/06-Histograms/06-Histograms.ipynb)             |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec01_Basics_of_CV/06-Histograms/histogram.png" width="90" height="70" />      |   Histogram helps us understaqnd the distribution behind the colors of an image. This is important to know when you plan on compiling a machine learning algorithm with a balanced dataset|
 | [Drawings of Shapes](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec01_Basics_of_CV/07-Drawing-Images/07-Drawing-Images.ipynb)    |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec01_Basics_of_CV/07-Drawing-Images/rectangle.jpg" width="260" height="70" /> | If you ever need to have shapes to interact with the computer vision world like object detection, it's common to create digital shapes to represent them.  |
+
+
 
 ### Image Manipulation and Processing
 ### ([Return back to Contents](#Contents))
@@ -54,6 +57,7 @@ In this section we are going to see how we are going to manipulate the image usi
 |  [Edge Detection](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/12_Edge_Detection_%26_Image_Gradients/12_Edge_Detection_%26_Image_Gradients.ipynb) |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/12_Edge_Detection_%26_Image_Gradients/canny.png" width="90" height="70">      |  Identifying a variety of mathematical methods that aim at identifying points in a digital image at which the image brightness changes sharply or, more formally, has discontinuities. |
 |  [Perspective & Affine Transforms](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/13_Perspective_%26_Affine_Transforms/13_Perspective_%26_Affine_Transforms.ipynb)  |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/13_Perspective_%26_Affine_Transforms/affineTransform.png" width="90" height="70">      |  Affine Transform is a function between affine spaces which preserves points, straight lines and planes. |
 |  [Live Sketch Using Webcam](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/14_Live_Sketch_Using_Webcam/14_Live_Sketch_Using_Webcam.ipynb)  |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec02_Image_Manipulations/14_Live_Sketch_Using_Webcam/cannyEdgeDetection.gif" width="90" height="70">      |   A live webcam program converting each frame into grayscaling to compute the gradient to visualize the edges. Afterwards reverse bitwise operation to inverse white and black pixels. |
+
 
 
 ### Image Segmentation and Contours 
@@ -79,10 +83,12 @@ Segmenting Images and Obtaining Interesting Points. Apply different algorithms t
 ### ([Return back to Contents](#Contents))
 |                    |        |          |
 | :---:              | :----: |  :----:  |
-|  [Feature Description](#)    | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/00_Feature_Description_Theory/edge.png" width="320" height="70">       |  Images Features are interesting areas in image that are somewhat unique to that specific image. They are also popularly called key point features or interest points. Features are important as they can be used to analyze, describe and match images.         |
+|  [Feature Description](#)    | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/00_Feature_Description_Theory/edge.png" width="320" height="70">       |  A feature descriptor is a representation of an image or an image patch that simplifies the image by extracting useful information and throwing away extraneous information. |
 |  [Finding Waldo](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/01_Finding_Waldo/01_Finding_Waldo.ipynb)     | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/01_Finding_Waldo/output_template.jpg" width="90" height="70">       | Using a template image of waldo, we're going find him through pixel matching which is a very static appropach. Biggest tradeoff using template is we cannot use the same static template for a new waldo image. Solution is to train an AI from a series of different waldo images. |
-|  [Finding Corners](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/02_Finding_Corners/02_Finding_Corners.ipynb)    | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/02_Finding_Corners/good_corners_found.jpg" width="90" height="70">       |          |
-|  [Histogram of Oriented Gradients](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/05_Histogram_of_Oriented_Gradients/05_Histogram_of_Oriented_Gradients.ipynb)    | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/05_Histogram_of_Oriented_Gradients/ouput_gradient.jpg" width="90" height="70">        |       |
+|  [Finding Corners](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/02_Finding_Corners/02_Finding_Corners.ipynb)    | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/02_Finding_Corners/good_corners_found.jpg" width="90" height="70">  |          |
+|  [Histogram of Oriented Gradients](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/05_Histogram_of_Oriented_Gradients/05_Histogram_of_Oriented_Gradients.ipynb)    | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec04_Object_Detection_01/05_Histogram_of_Oriented_Gradients/ouput_gradient.jpg" width="590" height="70">   | The distribution ( histograms ) of directions of gradients ( oriented gradients ) are used as features. Gradients ( x and y derivatives ) of an image are useful because the magnitude of gradients is large around edges and corners ( regions of abrupt intensity changes ) and we know that edges and corners pack in a lot more information about object shape than flat regions.      |
+
+
 
 ### Object Detection Part 2: Build a Face, people and Car Detectors
 ### ([Return back to Contents](#Contents))
@@ -92,6 +98,8 @@ Segmenting Images and Obtaining Interesting Points. Apply different algorithms t
 | [Face and Eye Detection](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec05_Object_Detection_02/01_Face_n_Eye_Detection/01_%20Face_%26_Eye_Detection.ipynb)          | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec05_Object_Detection_02/01_Face_n_Eye_Detection/img_v2.jpg" width="90" height="70">       |          |
 | [Car  Video Detection](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec05_Object_Detection_02/02_Car_Detection/02_Car_Detection.ipynb)            | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/cars.gif" width="90" height="70" />       |          |
 | [Pedestrian  Video Detection](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec05_Object_Detection_02/03_Pedestrian_Detection/03_Pedestrian_Detection.ipynb)     | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/pedistrian.gif" width="90" height="70" />       |          |
+
+
 
 ### Augmented Reality (AR): Facial Landmark Identification 
 ### ([Return back to Contents](#Contents))
@@ -103,6 +111,8 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 |  [Face Reader (Yawn Detector)](Sec06_Augmented_Reality/04_Yawn_Detector_and_Counting/04_Yawn_Detector_and_Counting.ipynb)  | <img src="Sec06_Augmented_Reality/04_Yawn_Detector_and_Counting/facial_landmark.png" width="90" height="70">       |          |
 |  [Object Detector - AR </br> (Keras/TensorFlow)](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec06_Augmented_Reality/06/06_Augmented_Machine_Learning.ipynb)  |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/Object_Detector_AR.gif" width="90" height="70" />    |          |
  
+ 
+ 
 ### Simple Machine Learning using OpenCV 
 ### ([Return back to Contents](#Contents))
 |                                  |        |          |
@@ -110,6 +120,8 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 |  [Handwritten Digit Recognition](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec07_Simple_Machine_Learning/01_Digit_Classifier/train_digits.ipynb)   | <img src="Sec07_Simple_Machine_Learning/01_Digit_Classifier/digits-classification.jpg" width="90" height="70">       |  Given an image dataset of numbers, we train the AI model to classify handwritten digits.       |
 |  [Credit Card Reader](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec07_Simple_Machine_Learning/02_Credit_Card_Reader/03_Credit_Card_Reader.ipynb)              | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec07_Simple_Machine_Learning/02_Credit_Card_Reader/output.jpg" width="90" height="70">       |          |
 |  [Facial Recognition](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec07_Simple_Machine_Learning/02-Face-Recognition-%C3%B1-Unlock-Your-Computer-With-Your-Face!/02-Face-Recognition-%C3%B1-Unlock-Your-Computer-With-Your-Face!.ipynb)              |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/facialRecognition.gif" width="90" height="70" />      |          |
+
+
 
 ### Object Tracking and Motion Analysis
 ### ([Return back to Contents](#Contents))
@@ -122,6 +134,8 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 |  [Optical Flow](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Object_Tracking/05_Optical_Flow/05_Optical%20Flow%20Object%20Tracking.ipynb)                       | <img src="Sec08_Object_Tracking/05_Optical_Flow/dense_optical_flow.gif" width="90" height="70">       |          |
 |  [Ball Tracking](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Object_Tracking/06_Ball%20Tracking.ipynb)                      |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/flower.gif" width="90" height="70" />      |          |
 
+
+
 ### Computational Photography
 ### ([Return back to Contents](#Contents))
 Computational Photography. Create panoramas, remove unwanted objects from photos, enhance low light photographs, and work with High Dynamic Range (HDR) images. Calibration and Stereo Images. Learn how to calibrate cameras, remove distortion from images, change the 3D perspective of photographs, and work with stereo images to represent depth information.
@@ -133,11 +147,14 @@ Computational Photography. Create panoramas, remove unwanted objects from photos
 |  [Photo Restoration](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec09_Computer_Photography/02_Photo_Restoration_using_inpainting/02_Photo_Restoration_using_inpainting.ipynb)          | <img src="Sec09_Computer_Photography/02_Photo_Restoration_using_inpainting/restored.jpg" width="90" height="70">       |          |
 |  [Lisence Plate Recognition](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec09_Computer_Photography/03_Automatic_Number_Plate_Recognition/03_Automatic_Number_Plate_Recognition.ipynb)  | <img src="Sec09_Computer_Photography/03_Automatic_Number_Plate_Recognition/detected_plate.jpg" width="90" height="70">       |          |
 
+
+
 ### Self Driving Cars 
 ### ([Return back to Contents](#Contents))
 |                       |        |          |
 | :---:                 | :----: |  :----:  |
-| [Finding Lanes](https://github.com/rchavezj/OpenCV_Projects/tree/master/Sec10_Self_Driving_Cars)    |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/findingLanes.gif" width="90" height="70">      |          |
+| [Finding Lanes](https://github.com/rchavezj/OpenCV_Projects/tree/master/Sec10_Self_Driving_Cars)    |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/findingLanes.gif" width="90" height="70">  |          |
+
 
 
 ### Deep Learning 
