@@ -117,8 +117,8 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 ### ([Return back to Contents](#Contents))
 |                                  |        |          |
 | :---:                            | :----: |  :----:  |
-|  [Handwritten Digit Recognition](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec07_Simple_Machine_Learning/01_Digit_Classifier/train_digits.ipynb)   | <img src="Sec07_Simple_Machine_Learning/01_Digit_Classifier/digits-classification.jpg" width="90" height="70">       |  Given an image dataset of numbers, we train the AI model to classify handwritten digits.       |
-|  [Credit Card Reader](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec07_Simple_Machine_Learning/02_Credit_Card_Reader/03_Credit_Card_Reader.ipynb)              | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec07_Simple_Machine_Learning/02_Credit_Card_Reader/output.jpg" width="90" height="70">   | After performing object detection, we do instance segmentation to display the outline of an object (edge detection).    |
+|  [Handwritten Digit Recognition](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec07_Simple_Machine_Learning/01_Digit_Classifier/train_digits.ipynb)   | <img src="Sec07_Simple_Machine_Learning/01_Digit_Classifier/digits-classification.jpg" width="200" height="70">       |  Given an image dataset of numbers, we train the AI model to classify handwritten digits.       |
+|  [Credit Card Reader](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec07_Simple_Machine_Learning/02_Credit_Card_Reader/03_Credit_Card_Reader.ipynb)              | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec07_Simple_Machine_Learning/02_Credit_Card_Reader/output.jpg" width="200" height="70">   | After performing object detection, we do instance segmentation to display the outline of an object (edge detection).    |
 |  [Facial Recognition](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec07_Simple_Machine_Learning/02-Face-Recognition-%C3%B1-Unlock-Your-Computer-With-Your-Face!/02-Face-Recognition-%C3%B1-Unlock-Your-Computer-With-Your-Face!.ipynb)              |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/facialRecognition.gif" width="200" height="70" />      |  The webcam will be activated to gather images of your face in order to find a pattern to classify a face.    |
 
 
@@ -127,12 +127,12 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 ### ([Return back to Contents](#Contents))
 |                                     |        |          |
 | :---:                               | :----: |  :----:  |
-|  [HSV Filter](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Object_Tracking/01_Filtering_By_Color/01_Filtering%20by%20Color.ipynb)  | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Object_Tracking/01_Filtering_By_Color/hsv.png" width="90" height="70">       |          |
-|  [Background Subtraction](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Object_Tracking/02_Background_Subtraction/02_Background_Subtraction.ipynb)             | <img src="Sec08_Object_Tracking/02_Background_Subtraction/background_subtraction.gif" width="90" height="70">       |          |
-|  [Meanshift (Object Tracking)](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Object_Tracking/03_Meanshift_Object_Tracking/03_Meanshift_Object_Tracking.ipynb)        | <img src="Sec08_Object_Tracking/03_Meanshift_Object_Tracking/meanshift_basics.jpg" width="90" height="70">       |          |
-|  [CAMshift (Object Tracking)](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Object_Tracking/04_Camshift_Object_Tracking/04_Camshift_Object_Tracking.ipynb)         | <img src="Sec08_Object_Tracking/04_Camshift_Object_Tracking/camshift_face.gif" width="90" height="90">       |          |
-|  [Optical Flow](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Object_Tracking/05_Optical_Flow/05_Optical%20Flow%20Object%20Tracking.ipynb)                       | <img src="Sec08_Object_Tracking/05_Optical_Flow/dense_optical_flow.gif" width="90" height="70">       |          |
-|  [Ball Tracking](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Object_Tracking/06_Ball%20Tracking.ipynb)                      |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/flower.gif" width="90" height="70" />      |          |
+|  [HSV Filter](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Object_Tracking/01_Filtering_By_Color/01_Filtering%20by%20Color.ipynb)  | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Object_Tracking/01_Filtering_By_Color/hsv.png" width="200" height="70"> | In order to filter like this you have a few options. Generally, you are probably going to convert your colors to HSV, which is "Hue Saturation Value." This can help you actually pinpoint a more specific color, based on hue and saturation ranges, with a variance of value. |
+|  [Background Subtraction](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Object_Tracking/02_Background_Subtraction/02_Background_Subtraction.ipynb)             | <img src="Sec08_Object_Tracking/02_Background_Subtraction/background_subtraction.gif" width="200" height="70">       |          |
+|  [Meanshift (Object Tracking)](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Object_Tracking/03_Meanshift_Object_Tracking/03_Meanshift_Object_Tracking.ipynb)        | <img src="Sec08_Object_Tracking/03_Meanshift_Object_Tracking/meanshift_basics.jpg" width="200" height="70">       |          |
+|  [CAMshift (Object Tracking)](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Object_Tracking/04_Camshift_Object_Tracking/04_Camshift_Object_Tracking.ipynb)         | <img src="Sec08_Object_Tracking/04_Camshift_Object_Tracking/camshift_face.gif" width="200" height="90">       |          |
+|  [Optical Flow](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Object_Tracking/05_Optical_Flow/05_Optical%20Flow%20Object%20Tracking.ipynb)                       | <img src="Sec08_Object_Tracking/05_Optical_Flow/dense_optical_flow.gif" width="200" height="70">       |          |
+|  [Ball Tracking](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Object_Tracking/06_Ball%20Tracking.ipynb)                      |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/flower.gif" width="200" height="70" />      |          |
 
 
 
@@ -143,9 +143,9 @@ Computational Photography. Create panoramas, remove unwanted objects from photos
 
 |                             |        |          |
 | :---:                       | :----: |  :----:  |
-|  [Photo Denoising](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec09_Computer_Photography/01_Photo_Denoising/01_Photo_Denoising.ipynb)          | <img src="Sec09_Computer_Photography/01_Photo_Denoising/fast_means_denoising.jpg" width="90" height="70">       |          |
-|  [Photo Restoration](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec09_Computer_Photography/02_Photo_Restoration_using_inpainting/02_Photo_Restoration_using_inpainting.ipynb)          | <img src="Sec09_Computer_Photography/02_Photo_Restoration_using_inpainting/restored.jpg" width="90" height="70">       |          |
-|  [Lisence Plate Recognition](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec09_Computer_Photography/03_Automatic_Number_Plate_Recognition/03_Automatic_Number_Plate_Recognition.ipynb)  | <img src="Sec09_Computer_Photography/03_Automatic_Number_Plate_Recognition/detected_plate.jpg" width="90" height="70">       |          |
+|  [Photo Denoising](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec09_Computer_Photography/01_Photo_Denoising/01_Photo_Denoising.ipynb)          | <img src="Sec09_Computer_Photography/01_Photo_Denoising/fast_means_denoising.jpg" width="200" height="70">       |          |
+|  [Photo Restoration](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec09_Computer_Photography/02_Photo_Restoration_using_inpainting/02_Photo_Restoration_using_inpainting.ipynb)          | <img src="Sec09_Computer_Photography/02_Photo_Restoration_using_inpainting/restored.jpg" width="200" height="70">       |          |
+|  [Lisence Plate Recognition](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec09_Computer_Photography/03_Automatic_Number_Plate_Recognition/03_Automatic_Number_Plate_Recognition.ipynb)  | <img src="Sec09_Computer_Photography/03_Automatic_Number_Plate_Recognition/detected_plate.jpg" width="200" height="70">       |          |
 
 
 
@@ -153,7 +153,7 @@ Computational Photography. Create panoramas, remove unwanted objects from photos
 ### ([Return back to Contents](#Contents))
 |                       |        |          |
 | :---:                 | :----: |  :----:  |
-| [Finding Lanes](https://github.com/rchavezj/OpenCV_Projects/tree/master/Sec10_Self_Driving_Cars)    |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/findingLanes.gif" width="90" height="70">  |          |
+| [Finding Lanes](https://github.com/rchavezj/OpenCV_Projects/tree/master/Sec10_Self_Driving_Cars)    |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/findingLanes.gif" width="200" height="70">  |          |
 
 
 
@@ -161,8 +161,8 @@ Computational Photography. Create panoramas, remove unwanted objects from photos
 ### ([Return back to Contents](#Contents))
 |                       |        |          |
 | :---:                 | :----: |  :----:  |
-| [Neural Style Transfer (Image)](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec11_Deep_Learning/01_Neural_Style_Transfer/01_Neural_Style_Transfer_Image.ipynb)  </br>  [Neural Style Transfer (Video Stream)](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec11_Deep_Learning/01_Neural_Style_Transfer/01_Neural_Style_Transfer_Vid_Stream.ipynb)  |  <img src="Sec11_Deep_Learning/01_Neural_Style_Transfer/n_style_transfer.gif" width="240" height="80">      |   Generate a new image/frame from transferring the style of another source that was optimized. The content from the input remains intact for the output.|
-| [Mask_RCNN (Keras/TensorFlow)](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec11_Deep_Learning/02_MaskRCNN/process_video.py)  |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec11_Deep_Learning/02_MaskRCNN/d_mitchell.gif" width="90" height="70">      | Mask-RCNN is an advance form of instance segmentation. It contains two sub-problems: object detection and semantic segmentation.|
+| [Neural Style Transfer (Image)](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec11_Deep_Learning/01_Neural_Style_Transfer/01_Neural_Style_Transfer_Image.ipynb)  </br>  [Neural Style Transfer (Video Stream)](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec11_Deep_Learning/01_Neural_Style_Transfer/01_Neural_Style_Transfer_Vid_Stream.ipynb)  |  <img src="Sec11_Deep_Learning/01_Neural_Style_Transfer/n_style_transfer.gif" width="200" height="80">      |   Generate a new image/frame from transferring the style of another source that was optimized. The content from the input remains intact for the output.|
+| [Mask_RCNN (Keras/TensorFlow)](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec11_Deep_Learning/02_MaskRCNN/process_video.py)  |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec11_Deep_Learning/02_MaskRCNN/d_mitchell.gif" width="200" height="70">      | Mask-RCNN is an advance form of instance segmentation. It contains two sub-problems: object detection and semantic segmentation.|
 
 
 
