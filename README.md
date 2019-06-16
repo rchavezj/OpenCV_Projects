@@ -107,9 +107,9 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 
 |                               |        |          |
 | :---:                         | :----: |  :----:  |
-|  [Face Analysis and Filtering](Sec06_Augmented_Reality/01_Facial_Landmarks/01_Facial_Landmarks.ipynb)  | <img src="Sec06_Augmented_Reality/01_Facial_Landmarks/image_with_landmarks.jpg" width="90" height="70">       |          |
-|  [Face Reader (Yawn Detector)](Sec06_Augmented_Reality/04_Yawn_Detector_and_Counting/04_Yawn_Detector_and_Counting.ipynb)  | <img src="Sec06_Augmented_Reality/04_Yawn_Detector_and_Counting/facial_landmark.png" width="90" height="70">       |          |
-|  [Object Detector - AR </br> (Keras/TensorFlow)](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec06_Augmented_Reality/06/06_Augmented_Machine_Learning.ipynb)  |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/Object_Detector_AR.gif" width="90" height="70" />    |          |
+|  [Face Analysis and Filtering](Sec06_Augmented_Reality/01_Facial_Landmarks/01_Facial_Landmarks.ipynb)  | <img src="Sec06_Augmented_Reality/01_Facial_Landmarks/image_with_landmarks.jpg" width="90" height="70">       | Locating a face in an image and returning a bounding rectangle / square that contains the face — was a hot research area.          |
+|  [Face Reader (Yawn Detector)](Sec06_Augmented_Reality/04_Yawn_Detector_and_Counting/04_Yawn_Detector_and_Counting.ipynb)  | <img src="Sec06_Augmented_Reality/04_Yawn_Detector_and_Counting/facial_landmark.png" width="90" height="70"> |  Detecting drowsiness in drivers is not an easy task. If you want to develop a robust algorithm, first step is to robustly detect the face and track it over time.|
+|  [Object Detector - AR </br> (Keras/TensorFlow)](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec06_Augmented_Reality/06/06_Augmented_Machine_Learning.ipynb)  |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/Object_Detector_AR.gif" width="90" height="70" /> |  This application is going to perform object detection from training data gathered on the webcam. The model will be coded in Keras. |
  
  
  
@@ -118,8 +118,8 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 |                                  |        |          |
 | :---:                            | :----: |  :----:  |
 |  [Handwritten Digit Recognition](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec07_Simple_Machine_Learning/01_Digit_Classifier/train_digits.ipynb)   | <img src="Sec07_Simple_Machine_Learning/01_Digit_Classifier/digits-classification.jpg" width="90" height="70">       |  Given an image dataset of numbers, we train the AI model to classify handwritten digits.       |
-|  [Credit Card Reader](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec07_Simple_Machine_Learning/02_Credit_Card_Reader/03_Credit_Card_Reader.ipynb)              | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec07_Simple_Machine_Learning/02_Credit_Card_Reader/output.jpg" width="90" height="70">       |          |
-|  [Facial Recognition](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec07_Simple_Machine_Learning/02-Face-Recognition-%C3%B1-Unlock-Your-Computer-With-Your-Face!/02-Face-Recognition-%C3%B1-Unlock-Your-Computer-With-Your-Face!.ipynb)              |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/facialRecognition.gif" width="90" height="70" />      |          |
+|  [Credit Card Reader](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec07_Simple_Machine_Learning/02_Credit_Card_Reader/03_Credit_Card_Reader.ipynb)              | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec07_Simple_Machine_Learning/02_Credit_Card_Reader/output.jpg" width="90" height="70">   | After performing object detection, we do instance segmentation to display the outline of an object (edge detection).    |
+|  [Facial Recognition](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec07_Simple_Machine_Learning/02-Face-Recognition-%C3%B1-Unlock-Your-Computer-With-Your-Face!/02-Face-Recognition-%C3%B1-Unlock-Your-Computer-With-Your-Face!.ipynb)              |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/facialRecognition.gif" width="90" height="70" />      |  The webcam will be activated to gather images of your face in order to find a pattern to classify a face.    |
 
 
 
