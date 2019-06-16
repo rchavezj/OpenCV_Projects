@@ -143,9 +143,9 @@ Computational Photography. Create panoramas, remove unwanted objects from photos
 
 |                             |        |          |
 | :---:                       | :----: |  :----:  |
-|  [Photo Denoising](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec09_Computer_Photography/01_Photo_Denoising/01_Photo_Denoising.ipynb)          | <img src="Sec09_Computer_Photography/01_Photo_Denoising/fast_means_denoising.jpg" width="200" height="70">       |          |
-|  [Photo Restoration](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec09_Computer_Photography/02_Photo_Restoration_using_inpainting/02_Photo_Restoration_using_inpainting.ipynb)          | <img src="Sec09_Computer_Photography/02_Photo_Restoration_using_inpainting/restored.jpg" width="200" height="70">       |          |
-|  [Lisence Plate Recognition](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec09_Computer_Photography/03_Automatic_Number_Plate_Recognition/03_Automatic_Number_Plate_Recognition.ipynb)  | <img src="Sec09_Computer_Photography/03_Automatic_Number_Plate_Recognition/detected_plate.jpg" width="200" height="70">       |          |
+|  [Photo Denoising](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec09_Computer_Photography/01_Photo_Denoising/01_Photo_Denoising.ipynb)          | <img src="Sec09_Computer_Photography/01_Photo_Denoising/fast_means_denoising.jpg" width="200" height="70">  | Perform image denoising using Non-local Means Denoising algorithm http://www.ipol.im/pub/algo/bcm_non_local_means_denoising/ with several computational optimizations. Noise expected to be a gaussian white noise. |
+|  [Photo Restoration](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec09_Computer_Photography/02_Photo_Restoration_using_inpainting/02_Photo_Restoration_using_inpainting.ipynb)          | <img src="Sec09_Computer_Photography/02_Photo_Restoration_using_inpainting/restored.jpg" width="200" height="70">       | Using a combination of hough transform and Photo denoising to filter out unwanted content from an image. For example we can remote lines off a picture. |
+|  [Lisence Plate Recognition](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec09_Computer_Photography/03_Automatic_Number_Plate_Recognition/03_Automatic_Number_Plate_Recognition.ipynb)  | <img src="Sec09_Computer_Photography/03_Automatic_Number_Plate_Recognition/detected_plate.jpg" width="200" height="70">  |  Next you will find some code which will let you to detect license plate. This project is divided mainly in two parts: plate detection and character recognition.   |
 
 
 
@@ -153,7 +153,7 @@ Computational Photography. Create panoramas, remove unwanted objects from photos
 ### ([Return back to Contents](#Contents))
 |                       |        |          |
 | :---:                 | :----: |  :----:  |
-| [Finding Lanes](https://github.com/rchavezj/OpenCV_Projects/tree/master/Sec10_Self_Driving_Cars)    |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/findingLanes.gif" width="200" height="70">  |          |
+| [Finding Lanes](https://github.com/rchavezj/OpenCV_Projects/tree/master/Sec10_Self_Driving_Cars)    |  <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/images/findingLanes.gif" width="200" height="70">  |  Finding lanes requires the expertise in: Canny edge detection, masking, hough lines transform, and calculating the average slope points. |
 
 
 
