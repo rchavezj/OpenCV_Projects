@@ -124,6 +124,7 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 
 
 ### Object Tracking and Motion Analysis
+It's a displacement of each of the pixel compared to previous frame but how much that pixel move compared to previous frame. A displacement vector of a moving object is also known as the optical flow vector.  
 ### ([Return back to Contents](#Contents))
 |                                     |        |          |
 | :---:                               | :----: |  :----:  |
