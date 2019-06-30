@@ -124,8 +124,8 @@ Recognizing Objects. Detect different shapes, faces, people, and learn how to tr
 
 
 ### Object Tracking and Motion Analysis
-It's a displacement of each of the pixel compared to previous frame but how much that pixel move compared to previous frame. A displacement vector of a moving object is also known as the optical flow vector.  
 ### ([Return back to Contents](#Contents))
+It's a displacement of each of the pixel compared to previous frame but how much that pixel move compared to previous frame. A displacement vector of a moving object is also known as the optical flow vector.  
 |                                     |        |          |
 | :---:                               | :----: |  :----:  |
 |  [HSV Filter](https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Object_Tracking/01_Filtering_By_Color/01_Filtering%20by%20Color.ipynb)  | <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec08_Object_Tracking/01_Filtering_By_Color/hsv.png" width="400" height="70"> | In order to filter you have a few options. Generally, you are probably going to convert your colors to HSV, which is "Hue Saturation Value." This can help you actually pinpoint a more specific color, based on hue and saturation ranges, with a variance of value. |
