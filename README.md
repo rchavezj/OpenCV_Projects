@@ -1,6 +1,6 @@
 # OpenCV_Projects
 
-This repository includes any projects that I have completed in research, projects, or [online classes](https://www.udemy.com/course/master-computer-vision-with-opencv-in-python/). My main focus is to study fields that cross over Machine Learning (Convolutionary Neural Network, Support Vector Machines, and Clustering of K-means), Computer Vision and Data Science. 
+This repository includes any projects that I have completed in research, projects, or [online classes (Rajeev Ratan)](https://www.udemy.com/course/master-computer-vision-with-opencv-in-python/). My main focus is to study fields that cross over Machine Learning (Convolutionary Neural Network, Support Vector Machines, and Clustering of K-means), Computer Vision and Data Science. 
 
 <img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/OpenCV_CNN.png" width="864" height="260" /><img src="Sec08_Object_Tracking/05_Optical_Flow/dense_optical_flow_v2.gif" width="432" height="400"><img src="Sec11_Deep_Learning/01_Neural_Style_Transfer/n_style_transfer.gif" width="432" height="400"/><img src="https://github.com/rchavezj/OpenCV_Projects/blob/master/OpenCV_GIF.gif" width="864" height="270" />
 
