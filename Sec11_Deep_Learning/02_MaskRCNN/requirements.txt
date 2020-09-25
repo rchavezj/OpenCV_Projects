@@ -4,6 +4,6 @@ cython
 h5py
 Pillow
 scikit-image
-tensorflow-gpu==1.5
+tensorflow-gpu==1.15.4
 keras
 jupyter
